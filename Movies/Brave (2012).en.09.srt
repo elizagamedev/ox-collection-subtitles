@@ -1,0 +1,8757 @@
+1
+00:00:01,835 --> 00:00:05,234
+Welcome to the Brave commentary.
+I'm your host Mark Andrews.
+
+2
+00:00:05,806 --> 00:00:07,946
+I'm the director of Brave.
+And I'm here with...
+
+3
+00:00:08,342 --> 00:00:10,212
+Steve Purcell,
+co-director and co-writer.
+
+4
+00:00:10,577 --> 00:00:11,747
+Nick Smith, editor.
+
+5
+00:00:12,012 --> 00:00:14,202
+I'm Brian Larsen, story supervisor.
+
+6
+00:00:14,615 --> 00:00:16,135
+We were thinking
+that with the Disney castle
+
+7
+00:00:16,450 --> 00:00:19,520
+we would actually change it into
+the Dun Broch Castle.
+
+8
+00:00:20,053 --> 00:00:20,983
+There was a discussion
+
+9
+00:00:21,221 --> 00:00:23,881
+but we decided just to go with
+the original Disney castle.
+
+10
+00:00:24,358 --> 00:00:25,258
+We talk about a lot of things.
+
+11
+00:00:25,492 --> 00:00:27,332
+We talked about a lot of things
+over the course of the film.
+
+12
+00:00:27,694 --> 00:00:29,244
+Wasn't there something you
+wanted to do on the Pixar logo?
+
+13
+00:00:29,563 --> 00:00:31,403
+-Yeah, we wanted...
+-The bagpipe thing.
+
+14
+00:00:31,765 --> 00:00:33,785
+We wanted him to come in
+with some bagpipes.
+
+15
+00:00:34,167 --> 00:00:35,537
+-Or at least give him a kilt.
+-And a kilt?
+
+16
+00:00:35,836 --> 00:00:38,936
+No when he jumped in it would be...
+A bagpipe.
+
+17
+00:00:39,473 --> 00:00:41,963
+-Then a groan...
+-Then a... Yeah.
+
+18
+00:00:46,079 --> 00:00:47,159
+-We should do that.
+-It's not too late.
+
+19
+00:00:47,414 --> 00:00:49,314
+-We just did.
+-Yeah.
+
+20
+00:00:49,683 --> 00:00:54,663
+So, the beginning of Brave
+started very differently for a little while.
+
+21
+00:00:55,455 --> 00:00:57,223
+l had this whole scene where
+
+22
+00:00:57,324 --> 00:01:01,574
+Fergus was hunting
+through the snow to find Mor'du
+
+23
+00:01:02,262 --> 00:01:05,832
+and we were going to
+give the audience this experience of
+
+24
+00:01:06,433 --> 00:01:08,603
+encountering Mor'du
+so that we'd know who he was
+
+25
+00:01:09,002 --> 00:01:11,551
+and know why Fergus
+was missing the leg
+
+26
+00:01:12,005 --> 00:01:14,464
+and establish his hatred for bears.
+
+27
+00:01:14,908 --> 00:01:20,148
+Almost this Captain Ahab to Moby Dick,
+kind of lust to destroy this bear
+
+28
+00:01:20,981 --> 00:01:22,500
+which plays into the story later.
+
+29
+00:01:22,816 --> 00:01:26,276
+We boarded it. We put it through layout.
+We animated it.
+
+30
+00:01:26,853 --> 00:01:29,603
+We started to render it
+and then in one screening
+
+31
+00:01:30,090 --> 00:01:33,570
+we realized that we're too far away
+from our main character, Merida.
+
+32
+00:01:34,161 --> 00:01:38,441
+So there was this idea about
+showing Merida when she was younger.
+
+33
+00:01:39,132 --> 00:01:43,492
+Of showing Merida and her mother
+Elinor when everything was good.
+
+34
+00:01:44,204 --> 00:01:48,863
+So that after the sequence opened
+and we flash forward in time,
+
+35
+00:01:49,610 --> 00:01:51,980
+we pick them up
+and now their relationship is strained.
+
+36
+00:01:52,412 --> 00:01:54,552
+Well, that's what ultimately this scene,
+I think, is trying to really set up
+
+37
+00:01:54,948 --> 00:01:59,398
+is, like, their relationship, family,
+Mor'du, the wisps, the bow.
+
+38
+00:02:00,120 --> 00:02:02,140
+There was so much that this scene
+was trying to incorporate
+
+39
+00:02:02,556 --> 00:02:03,456
+-and like you were saying with...
+-Right.
+
+40
+00:02:03,690 --> 00:02:05,000
+-And Dad's relationship with Mom, too.
+-Yeah.
+
+41
+00:02:05,292 --> 00:02:06,842
+And get it through organically.
+
+42
+00:02:07,160 --> 00:02:09,880
+We see her and her mom having
+this great relationship where
+
+43
+00:02:10,364 --> 00:02:12,094
+they're playing and loving each other.
+
+44
+00:02:12,432 --> 00:02:17,061
+Dad gives her a bow for the birthday,
+so this creates her love for the bow.
+
+45
+00:02:17,804 --> 00:02:21,344
+And we establish the wisps here
+that lead you to your fate.
+
+46
+00:02:21,942 --> 00:02:23,642
+And in this case lead her away
+
+47
+00:02:23,977 --> 00:02:26,877
+from getting eaten by
+this big, evil, demon bear.
+
+48
+00:02:27,381 --> 00:02:31,481
+But then this is that encounter
+where we call Mor'du by name
+
+49
+00:02:32,152 --> 00:02:34,841
+and still get the encounter
+between Fergus.
+
+50
+00:02:35,322 --> 00:02:36,722
+Well, originally we had Merida alone.
+
+51
+00:02:37,024 --> 00:02:38,394
+Right, sneaking out of the castle.
+
+52
+00:02:38,692 --> 00:02:40,392
+Yeah, we've had
+many different openings.
+
+53
+00:02:40,727 --> 00:02:42,567
+And actually
+it's surprising to think back on
+
+54
+00:02:42,929 --> 00:02:45,149
+how often we would do scenes that had
+
+55
+00:02:45,565 --> 00:02:47,025
+only a couple of
+the characters together.
+
+56
+00:02:47,334 --> 00:02:48,914
+And I think there's a lot to be said for
+
+57
+00:02:49,236 --> 00:02:51,486
+putting all the characters together
+right away,
+
+58
+00:02:51,905 --> 00:02:53,955
+so you can kind of
+feel their dynamic from the get-go.
+
+59
+00:02:54,341 --> 00:02:57,411
+So we had to very quickly
+create a brand new character.
+
+60
+00:02:57,944 --> 00:02:59,083
+That young Merida here.
+
+61
+00:02:59,346 --> 00:03:02,366
+And to get her right, we were
+talking about taking a triplet
+
+62
+00:03:02,883 --> 00:03:04,613
+-and putting longer hair on it.
+-Yeah.
+
+63
+00:03:04,951 --> 00:03:08,581
+We actually took Merida
+and scaled her down to a little girl.
+
+64
+00:03:09,189 --> 00:03:10,939
+Pulled in the body
+and got the proportions right.
+
+65
+00:03:11,291 --> 00:03:13,041
+Then we really had to
+subtly adjust the face.
+
+66
+00:03:13,393 --> 00:03:15,763
+And we had to have
+a whole new hair rig,
+
+67
+00:03:16,196 --> 00:03:17,216
+our new hairdo done.
+
+68
+00:03:17,464 --> 00:03:19,424
+And everybody just rallied
+and did a marvelous job.
+
+69
+00:03:19,800 --> 00:03:21,610
+And we have this
+super-cute little girl now.
+
+70
+00:03:21,968 --> 00:03:23,518
+And we also had to find a voice, too.
+
+71
+00:03:23,837 --> 00:03:26,857
+And Patrick Doyle, our composer,
+found this girl to sing the lullaby.
+
+72
+00:03:27,374 --> 00:03:28,924
+The lullaby, yeah.
+
+73
+00:03:29,276 --> 00:03:31,616
+And thought that she might work.
+And you went over and...
+
+74
+00:03:32,045 --> 00:03:34,035
+Met her and then we got the song.
+
+75
+00:03:34,414 --> 00:03:36,874
+And then I said, "Hey, I have this scene
+l want you to try."
+
+76
+00:03:37,317 --> 00:03:38,807
+-What was her name?
+-It was Peigi.
+
+77
+00:03:39,119 --> 00:03:41,779
+And she said, "Sure,"
+and she'd never kind of acted before.
+
+78
+00:03:42,255 --> 00:03:44,565
+But then she did the voice
+and knocked it out of the park.
+
+79
+00:03:44,991 --> 00:03:46,721
+We auditioned a bunch of little girls.
+
+80
+00:03:47,060 --> 00:03:49,460
+But it turns out
+Peigi was the most natural.
+
+81
+00:03:49,896 --> 00:03:52,916
+And two sessions and she nailed it.
+
+82
+00:03:53,433 --> 00:03:56,043
+-She had a sweet voice.
+-It was unpolished in a really sweet way.
+
+83
+00:03:57,504 --> 00:04:00,603
+And then we get into the attack here.
+So everything is fate.
+
+84
+00:04:01,141 --> 00:04:04,241
+You can almost say that
+the wisps led this encounter to happen
+
+85
+00:04:04,778 --> 00:04:08,208
+to be resolved
+several years down the road.
+
+86
+00:04:08,782 --> 00:04:11,392
+This is the inciting incident
+to kind of bring them all off.
+
+87
+00:04:11,852 --> 00:04:15,421
+And then to really get this big hit,
+l really wanted this.
+
+88
+00:04:15,522 --> 00:04:16,832
+-Well, it's two great bookends.
+-Yeah.
+
+89
+00:04:17,124 --> 00:04:20,194
+The beginning and the end of the family
+coming together to fight Mor'du.
+
+90
+00:04:20,761 --> 00:04:22,491
+And so this is the opening here,
+
+91
+00:04:23,330 --> 00:04:25,931
+once we go through
+the coming out of the clouds
+
+92
+00:04:26,032 --> 00:04:27,232
+and going into
+the Highlands of Scotland
+
+93
+00:04:27,501 --> 00:04:28,760
+and coming down to find the castle.
+
+94
+00:04:29,035 --> 00:04:31,995
+It was my homage to
+The Sound Of Music.
+
+95
+00:04:32,506 --> 00:04:34,585
+And I thought that
+getting into the movies...
+
+96
+00:04:34,975 --> 00:04:36,265
+‘Cause that used to be our opening,
+
+97
+00:04:36,543 --> 00:04:40,323
+as just starting coming out of cloud
+into images of Scotland.
+
+98
+00:04:40,947 --> 00:04:44,227
+But I really wanted to
+transport the audience.
+
+99
+00:04:44,785 --> 00:04:46,685
+And there's several movies
+that really do this well.
+
+100
+00:04:47,053 --> 00:04:50,013
+I think Braveheart does it well
+by coming across the water
+
+101
+00:04:50,524 --> 00:04:52,634
+and rising up over
+the Scottish Highlands.
+
+102
+00:04:53,026 --> 00:04:55,366
+Which I also do in this sequence.
+
+103
+00:04:55,796 --> 00:04:57,756
+And then, in Sound Of Music
+
+104
+00:04:58,131 --> 00:05:01,820
+to just give us a sense of this world
+that we're going to be in,
+
+105
+00:05:02,435 --> 00:05:03,985
+I thought was very important.
+
+106
+00:05:05,105 --> 00:05:06,745
+This next scene right here,
+
+107
+00:05:07,073 --> 00:05:09,293
+actually Mark choreographed this
+and we filmed it.
+
+108
+00:05:09,709 --> 00:05:12,579
+This fight scene right here,
+Mark was actually Fergus.
+
+109
+00:05:13,079 --> 00:05:14,509
+You should be able to
+find that on the Blu-ray.
+
+110
+00:05:14,848 --> 00:05:15,988
+-And were you...
+-l was in there.
+
+111
+00:05:16,249 --> 00:05:17,329
+Yeah, I was one of the guys
+who gets kicked.
+
+112
+00:05:17,584 --> 00:05:19,514
+How many guys? Did you actually
+do it with that many guys?
+
+113
+00:05:19,886 --> 00:05:21,086
+I did it with that many guys, yeah.
+
+114
+00:05:21,354 --> 00:05:23,464
+We choreographed the whole thing.
+
+115
+00:05:23,857 --> 00:05:27,427
+The animators were really into
+all the archery and the sword fighting.
+
+116
+00:05:28,028 --> 00:05:30,278
+And I was teaching them the swords
+
+117
+00:05:30,697 --> 00:05:32,337
+and doing all the choreography
+and we were filming it.
+
+118
+00:05:32,666 --> 00:05:34,945
+-So they can really go in there...
+-'Cause you're trained in this, right?
+
+119
+00:05:35,368 --> 00:05:37,978
+lam. But so they could go in there,
+‘cause it's those details of
+
+120
+00:05:38,438 --> 00:05:40,658
+how you move and where you
+shift your weight and all that stuff.
+
+121
+00:05:41,074 --> 00:05:43,684
+And they really wanted to nail it
+and get it down.
+
+122
+00:05:45,745 --> 00:05:47,555
+There we see Merida as a teenager.
+
+123
+00:05:47,914 --> 00:05:49,724
+But I wanted to,
+as soon as the doors opened,
+
+124
+00:05:50,083 --> 00:05:51,453
+find her doing something wrong.
+
+125
+00:05:51,751 --> 00:05:53,330
+She's just doing the stuff
+that she wants to do,
+
+126
+00:05:53,653 --> 00:05:56,463
+like eating that apple,
+but she's constantly getting in trouble
+
+127
+00:05:56,957 --> 00:05:59,147
+or being frowned upon by her mother.
+
+128
+00:05:59,559 --> 00:06:01,579
+Just so that we get that instant
+
+129
+00:06:01,962 --> 00:06:05,182
+change of dynamics of their relationship
+from the beginning of the film.
+
+130
+00:06:05,732 --> 00:06:08,312
+We want a chance to see Mom
+and Merida together.
+
+131
+00:06:08,768 --> 00:06:10,347
+So we could see,
+even in their body language,
+
+132
+00:06:10,670 --> 00:06:11,980
+how different they are as characters.
+
+133
+00:06:12,272 --> 00:06:15,402
+Where Mom's pulled in and very formal.
+
+134
+00:06:15,942 --> 00:06:20,102
+And Merida is always more relaxed
+and kind of has her head elsewhere.
+
+135
+00:06:24,851 --> 00:06:26,691
+We had this idea for just one day.
+
+136
+00:06:27,053 --> 00:06:30,653
+Ascene for a day in the life of Merida,
+which had all these elements in there.
+
+137
+00:06:31,258 --> 00:06:34,037
+And then we decided to make it
+like this mini montage
+
+138
+00:06:34,527 --> 00:06:39,887
+so we get that she's being kind of
+ruled or run by her mom constantly
+
+139
+00:06:40,734 --> 00:06:43,544
+day after day after day after day
+after day
+
+140
+00:06:44,037 --> 00:06:48,347
+with all these lessons,
+and these reasons to be a princess.
+
+141
+00:06:49,042 --> 00:06:51,821
+So that when she gets her day
+it's a real breakout.
+
+142
+00:06:54,314 --> 00:06:57,594
+We had a big issue because
+we had a princess in this movie,
+
+143
+00:06:58,151 --> 00:07:02,341
+and because this is fairly
+familiar ground with Disney films,
+
+144
+00:07:03,023 --> 00:07:04,513
+and other movies
+that have a princess in it,
+
+145
+00:07:04,824 --> 00:07:09,864
+that we really wanted to define what
+everybody thinks a princess is
+
+146
+00:07:10,664 --> 00:07:11,563
+in the opening,
+
+147
+00:07:11,798 --> 00:07:14,408
+so that we can break it
+in this sequence once she gets out.
+
+148
+00:07:14,868 --> 00:07:16,068
+I mean, she ends up...
+
+149
+00:07:16,336 --> 00:07:18,416
+She's riding through the woods
+and having this great day.
+
+150
+00:07:18,805 --> 00:07:20,145
+And we see her skills with the arrow.
+
+151
+00:07:20,440 --> 00:07:22,490
+How much she's developed
+since the beginning of the film
+
+152
+00:07:22,876 --> 00:07:23,955
+when she couldn't hit nothing.
+
+153
+00:07:24,210 --> 00:07:27,810
+How capable and athletic she is,
+how brave and bold she is.
+
+154
+00:07:28,415 --> 00:07:30,635
+And, later on,
+she's even mucking out her own stall.
+
+155
+00:07:31,051 --> 00:07:34,421
+You don't really see princesses
+mucking out their stalls in any movies.
+
+156
+00:07:34,988 --> 00:07:38,528
+So, we're visually saying, "This is not
+the princess you think she is.
+
+157
+00:07:39,125 --> 00:07:43,165
+"She is not timid, a faint heart,
+waiting for Prince Charming to come.
+
+158
+00:07:43,830 --> 00:07:45,909
+"She's going to do it all herself."
+
+159
+00:07:46,299 --> 00:07:49,049
+Well, this sequence in particular
+is really a response to
+
+160
+00:07:49,536 --> 00:07:50,676
+the sequence with her mother.
+
+161
+00:07:50,937 --> 00:07:53,047
+The camera was very still
+and muted colors.
+
+162
+00:07:53,440 --> 00:07:56,840
+Where here, the camera is very active
+and the colors are bright.
+
+163
+00:07:57,410 --> 00:08:02,190
+So it's kind of comparing what Merida is
+truly feeling during both sequences.
+
+164
+00:08:02,949 --> 00:08:06,759
+Right. Life in the castle is this drab,
+boring, restrictive place.
+
+165
+00:08:07,387 --> 00:08:10,167
+But once she's out on Angus
+riding around,
+
+166
+00:08:10,657 --> 00:08:12,556
+then it becomes
+this big, bold free place.
+
+167
+00:08:12,926 --> 00:08:15,916
+And she's much more in her element,
+her environment.
+
+168
+00:08:16,429 --> 00:08:18,539
+And she's ultimately
+exploring who she is.
+
+169
+00:08:18,932 --> 00:08:23,352
+And finding things that she likes
+and are inspiring to her, and risking.
+
+170
+00:08:24,070 --> 00:08:25,880
+I mean, she almost slips
+and falls off of this rock.
+
+171
+00:08:26,239 --> 00:08:27,989
+We call that the Crone's Tooth.
+
+172
+00:08:28,341 --> 00:08:30,891
+Those are the Fire Falls
+which was inspired by
+
+173
+00:08:31,344 --> 00:08:34,443
+this natural phenomenon that actually
+happens in the United States
+
+174
+00:08:34,981 --> 00:08:37,530
+in Yosemite National Park
+at a certain time of year.
+
+175
+00:08:37,984 --> 00:08:41,644
+The sun, when it sets,
+casts this light on the falls
+
+176
+00:08:42,255 --> 00:08:45,625
+that makes it catch on fire
+and they call that the Firefalls.
+
+177
+00:08:48,261 --> 00:08:49,810
+There are three songs in the movie.
+
+178
+00:08:50,130 --> 00:08:53,350
+And this is the first song written by
+our very own Alex Mandel
+
+179
+00:08:53,900 --> 00:08:56,560
+who l asked to do these as temp songs
+
+180
+00:08:57,037 --> 00:08:59,527
+‘cause we needed something
+in these positions.
+
+181
+00:08:59,973 --> 00:09:02,992
+And we listened to 'em so much
+and everybody really liked 'em.
+
+182
+00:09:03,510 --> 00:09:05,790
+And I remember John Lasseter
+and Andrew Stanton saying,
+
+183
+00:09:06,212 --> 00:09:08,932
+"Who did those songs?
+Those are great!"
+
+184
+00:09:09,416 --> 00:09:13,366
+And so we kept them in the movie,
+and got them re-recorded
+
+185
+00:09:14,020 --> 00:09:16,829
+and found a Scottish singer
+and they turned out really great.
+
+186
+00:09:20,994 --> 00:09:22,334
+One thing that we were
+talking about is that
+
+187
+00:09:22,629 --> 00:09:24,529
+the teenager is
+always late to the dinner table.
+
+188
+00:09:24,898 --> 00:09:27,418
+And they've already eaten usually
+or have gotten some snack
+
+189
+00:09:27,867 --> 00:09:29,857
+and she's always
+stuffing her face before.
+
+190
+00:09:30,236 --> 00:09:34,076
+So it was a bigger thing at one point,
+and we just scaled it down to
+
+191
+00:09:34,707 --> 00:09:36,516
+the couple shots of her
+entering the kitchen,
+
+192
+00:09:36,876 --> 00:09:38,656
+having a couple of bites, and nibbling.
+
+193
+00:09:39,012 --> 00:09:42,291
+So that she can steal this
+platter of cupcakes for her brothers.
+
+194
+00:09:44,050 --> 00:09:46,890
+What I like about the scene that you,
+I think, were trying to establish was
+
+195
+00:09:47,387 --> 00:09:48,967
+you're setting up
+the space of the castle.
+
+196
+00:09:49,289 --> 00:09:51,899
+You're trying to introduce the castle
+and the family as a unit.
+
+197
+00:09:52,358 --> 00:09:55,348
+So you're trying to get a lot of space
+associated for the audience.
+
+198
+00:09:56,563 --> 00:09:58,143
+So we want to meet these
+characters that they're in
+
+199
+00:09:58,465 --> 00:10:00,305
+this exotic time period for us.
+
+200
+00:10:00,667 --> 00:10:04,177
+And so we want to see them in a way
+that we recognize the situation totally.
+
+201
+00:10:04,771 --> 00:10:08,050
+And then we can get on board with
+the characters much more easily.
+
+202
+00:10:08,608 --> 00:10:09,537
+It's a typical day.
+
+203
+00:10:09,776 --> 00:10:14,026
+You want to set up the normal day
+before you see the extraordinary day.
+
+204
+00:10:14,714 --> 00:10:17,734
+It's really hard when you've got
+something that's in the round here.
+
+205
+00:10:18,251 --> 00:10:20,391
+You've got a four-sided table
+with characters on each side
+
+206
+00:10:20,787 --> 00:10:21,927
+to keep 'em straight.
+
+207
+00:10:22,188 --> 00:10:25,818
+So there is a pattern to
+the cutting of who you see
+
+208
+00:10:26,426 --> 00:10:29,056
+and when and who locks down
+on one side or the other.
+
+209
+00:10:29,529 --> 00:10:32,779
+With Fergus, usually Merida's head's
+there on the left side of the screen.
+
+210
+00:10:33,333 --> 00:10:36,293
+And then with Mom, Merida's
+head's on the other side of the screen,
+
+211
+00:10:36,803 --> 00:10:37,793
+on the right side of the screen.
+
+212
+00:10:38,037 --> 00:10:40,527
+So we know where Mom is
+in relation to Dad.
+
+213
+00:10:40,974 --> 00:10:42,204
+And where the triplets are.
+
+214
+00:10:42,475 --> 00:10:44,995
+The filmmaking is all there
+to try and lock us down into place.
+
+215
+00:10:45,445 --> 00:10:47,195
+And it also really illustrates
+the difference in the relationship
+
+216
+00:10:47,547 --> 00:10:48,537
+between Mom and Dad.
+
+217
+00:10:48,781 --> 00:10:51,531
+Where she has this very
+sweet relationship with her father.
+
+218
+00:10:52,018 --> 00:10:54,828
+And then her mother is barely
+paying attention to her at this point.
+
+219
+00:10:55,321 --> 00:10:57,051
+Right. And we wanted to
+switch that old dynamic
+
+220
+00:10:57,390 --> 00:11:00,490
+of Dad's usually reading
+at the dinner table with the newspaper.
+
+221
+00:11:01,027 --> 00:11:02,107
+It's actually Mom, you know,
+
+222
+00:11:02,362 --> 00:11:04,911
+she has all of her affairs of state
+and the castle,
+
+223
+00:11:05,365 --> 00:11:07,945
+you know, accounts and things,
+so she's the business one
+
+224
+00:11:08,401 --> 00:11:09,981
+while Dad is engaging with the family.
+
+225
+00:11:10,303 --> 00:11:12,913
+And here's to set up a dynamic of just
+between Merida and the triplets
+
+226
+00:11:13,373 --> 00:11:15,043
+that they're not antagonistic
+towards one another.
+
+227
+00:11:15,375 --> 00:11:17,955
+They help each other out, and
+you'll see that again later on in the film.
+
+228
+00:11:18,411 --> 00:11:20,141
+Ted Mathot actually had this great gag
+
+229
+00:11:20,480 --> 00:11:23,820
+when the dogs jump up
+and try and start eating Fergus' food,
+
+230
+00:11:24,384 --> 00:11:26,994
+and he knocks them away.
+And I thought that was just hilarious.
+
+231
+00:11:27,453 --> 00:11:30,173
+Because it just kind of goes to
+the whole character of who Fergus is.
+
+232
+00:11:30,657 --> 00:11:33,117
+But what the air of
+everything is inside the castle.
+
+233
+00:11:33,560 --> 00:11:35,729
+So for the dogs to jump up
+and run across the table,
+
+234
+00:11:36,129 --> 00:11:37,769
+you have this chaotic air.
+
+235
+00:11:38,097 --> 00:11:39,967
+We had a back and forth a lot of time
+
+236
+00:11:40,333 --> 00:11:43,492
+of how queenly
+or how kingly is this environment.
+
+237
+00:11:44,037 --> 00:11:45,817
+And I didn't want
+a Queen Elizabeth queen
+
+238
+00:11:46,172 --> 00:11:47,692
+because that's devoid of emotion.
+
+239
+00:11:48,007 --> 00:11:50,666
+In this time period
+kings and queens were just
+
+240
+00:11:51,144 --> 00:11:54,654
+beginning to emerge
+in this kind of class society.
+
+241
+00:11:55,248 --> 00:11:58,848
+So there weren't established rules
+of how one should act.
+
+242
+00:11:59,452 --> 00:12:02,962
+So we could be a little bit more loose
+and relaxed and just made it more real.
+
+243
+00:12:03,556 --> 00:12:06,686
+And that way we could also
+recognize the characters as parents,
+
+244
+00:12:07,227 --> 00:12:08,927
+even more so than as royals.
+
+245
+00:12:09,262 --> 00:12:10,752
+So we kind of recognize their behavior
+
+246
+00:12:11,064 --> 00:12:12,704
+and their issues
+that they have with their daughter.
+
+247
+00:12:13,032 --> 00:12:18,512
+Right. Them being the royals just
+created higher stakes in the story.
+
+248
+00:12:19,372 --> 00:12:21,332
+The larger problem that was
+going to come up in the movie
+
+249
+00:12:21,708 --> 00:12:24,517
+by Merida refusing to marry anybody
+and break with tradition.
+
+250
+00:12:25,011 --> 00:12:28,521
+So this scene is the start of
+Merida and Mom's real blowup
+
+251
+00:12:29,115 --> 00:12:30,815
+in a big way that's coming.
+
+252
+00:12:31,150 --> 00:12:34,220
+And the crux of it ends up
+in the tapestry scene.
+
+253
+00:12:34,754 --> 00:12:36,454
+Right. We're not that long
+into the movie.
+
+254
+00:12:36,789 --> 00:12:38,129
+And I wanted to establish quickly
+
+255
+00:12:38,424 --> 00:12:40,353
+exactly what this story
+is going to be about.
+
+256
+00:12:40,727 --> 00:12:45,146
+The main conflict is going to be
+between this mother and this daughter.
+
+257
+00:12:45,865 --> 00:12:47,565
+This whole thing is
+to get both of their sides.
+
+258
+00:12:47,900 --> 00:12:49,800
+‘Cause a lot of the time
+what was happening was
+
+259
+00:12:50,169 --> 00:12:51,899
+Mom would be too stern,
+a Mommie Dearest-type,
+
+260
+00:12:52,238 --> 00:12:53,088
+and we'd hate her.
+
+261
+00:12:53,606 --> 00:12:54,596
+And we could never hate her.
+
+262
+00:12:54,841 --> 00:12:56,861
+And then Merida, to go the other way,
+
+263
+00:12:57,243 --> 00:13:00,673
+would be too complain-y teenager
+and we would hate her, too.
+
+264
+00:13:01,247 --> 00:13:03,437
+So it was to really find that,
+
+265
+00:13:03,850 --> 00:13:07,770
+and it's a very narrow path,
+to dial in to where you like both of them,
+
+266
+00:13:08,421 --> 00:13:10,031
+and you understand both of them.
+
+267
+00:13:10,356 --> 00:13:12,316
+But very much this is Merida's picture.
+
+268
+00:13:12,692 --> 00:13:15,212
+And you have to be on Merida's side
+without hating Mom.
+
+269
+00:13:16,462 --> 00:13:19,302
+Brad Bird had said,
+"Nobody was really following
+
+270
+00:13:19,799 --> 00:13:22,839
+"that message of her
+talking about this ancient kingdom."
+
+271
+00:13:23,369 --> 00:13:27,879
+So we had the idea to have
+these little flashes of kind of showing it.
+
+272
+00:13:28,608 --> 00:13:32,507
+And it did for us, A, it identified this set.
+
+273
+00:13:33,146 --> 00:13:36,455
+This ruins, this ancient kingdom that
+we're going to see later on in the movie,
+
+274
+00:13:37,016 --> 00:13:38,356
+so we recognize it.
+
+275
+00:13:38,651 --> 00:13:44,040
+And visually set up who this prince was
+who was later going to become Mor'du.
+
+276
+00:13:44,891 --> 00:13:47,911
+Yeah, in our minds it seemed like
+Mom tells these stories all the time.
+
+277
+00:13:48,428 --> 00:13:51,268
+And for whatever reason,
+this one seemed like it stood out
+
+278
+00:13:51,764 --> 00:13:53,604
+and Merida would pay more attention.
+
+279
+00:13:53,966 --> 00:13:55,926
+Because the consequences of this story
+
+280
+00:13:56,302 --> 00:13:58,992
+seemed a lot more dire than
+what she had heard before.
+
+281
+00:14:00,506 --> 00:14:01,906
+We went into this moment
+that we called "deep thoughts."
+
+282
+00:14:02,208 --> 00:14:04,578
+Il had drawn Merida
+sitting on top of a castle,
+
+283
+00:14:05,011 --> 00:14:06,411
+or that she's alone with her thoughts
+
+284
+00:14:06,713 --> 00:14:12,073
+so that we would get that this decision
+or what can she possibly do.
+
+285
+00:14:12,919 --> 00:14:14,759
+How is that going to affect her life?
+
+286
+00:14:15,121 --> 00:14:16,901
+Then we also had this sequence where
+
+287
+00:14:17,256 --> 00:14:19,216
+Mom's got to talk about her daughter
+to somebody.
+
+288
+00:14:19,592 --> 00:14:21,732
+The parents are always talking
+about their children.
+
+289
+00:14:22,128 --> 00:14:24,558
+And we can get the other aspect of it.
+
+290
+00:14:24,997 --> 00:14:26,516
+And Katherine Sarafian, our producer,
+
+291
+00:14:26,833 --> 00:14:29,293
+would do this type of thing
+to me all the time.
+
+292
+00:14:29,736 --> 00:14:31,136
+Where she would want to role play
+
+293
+00:14:31,437 --> 00:14:33,577
+before we'd go into a meeting
+or something like that,
+
+294
+00:14:33,973 --> 00:14:37,193
+where Katherine would be the person
+that l was having the meeting with,
+
+295
+00:14:37,744 --> 00:14:40,374
+so l could kind of
+test run my questions and stuff,
+
+296
+00:14:40,847 --> 00:14:43,127
+or she could ask me questions
+and I would fire back.
+
+297
+00:14:43,549 --> 00:14:47,358
+And I thought that was a great idea.
+We could actually put that in the movie.
+
+298
+00:14:47,987 --> 00:14:52,557
+And Dad could be Merida
+and Mom could actually talk to Merida.
+
+299
+00:14:52,558 --> 00:14:52,788
+And Dad could be Merida
+and Mom could actually talk to Merida.
+
+300
+00:14:52,925 --> 00:14:54,094
+But it also illustrates the fact that
+
+301
+00:14:54,360 --> 00:14:56,760
+they are incapable of actually
+having a conversation with each other.
+
+302
+00:14:57,196 --> 00:14:59,536
+So all they do is talk to themselves
+
+303
+00:14:59,966 --> 00:15:02,136
+as though they were having
+a conversation with the other person.
+
+304
+00:15:02,535 --> 00:15:04,115
+And it fully gets out there
+what their issue is.
+
+305
+00:15:04,437 --> 00:15:06,367
+Right, yeah, yeah.
+So you understand both sides of it,
+
+306
+00:15:06,739 --> 00:15:08,579
+but neither of them actually
+talk to each other.
+
+307
+00:15:08,941 --> 00:15:11,551
+We knew that we were going to have
+these parallel conversations going on
+
+308
+00:15:12,011 --> 00:15:13,971
+and that's how we scripted it
+in the beginning,
+
+309
+00:15:14,347 --> 00:15:15,337
+but then at some point
+
+310
+00:15:15,581 --> 00:15:17,481
+we realized we could
+feather the conversations together
+
+311
+00:15:17,850 --> 00:15:21,160
+and make it feel like these characters
+are actually talking to each other.
+
+312
+00:15:21,721 --> 00:15:23,681
+And it's the conversation
+you sort of wish they'd have
+
+313
+00:15:24,056 --> 00:15:25,426
+where they're kind of calm,
+
+314
+00:15:25,725 --> 00:15:27,275
+they're actually
+spilling their guts a little bit
+
+315
+00:15:27,593 --> 00:15:29,293
+and you kind of see the point of view
+of each character.
+
+316
+00:15:29,629 --> 00:15:32,409
+Yeah, there were two separate scenes
+until we figured out,
+
+317
+00:15:32,899 --> 00:15:35,009
+"This is the same information,
+we should put it in one scene.
+
+318
+00:15:35,401 --> 00:15:37,040
+"Let's just edit these things together."
+
+319
+00:15:37,370 --> 00:15:40,850
+Then me and Steve went at it
+and started writing it as one scene,
+
+320
+00:15:41,441 --> 00:15:43,401
+playing with the cuts back and forth.
+
+321
+00:15:43,776 --> 00:15:46,585
+As soon as we had that,
+it was really working.
+
+322
+00:15:47,079 --> 00:15:48,368
+Here's Mom, what Mom wants to hear.
+
+323
+00:15:48,648 --> 00:15:50,548
+And here's Merida,
+what Merida wants to hear.
+
+324
+00:15:50,917 --> 00:15:54,487
+So you know later on
+when Mom's dressing Merida
+
+325
+00:15:55,087 --> 00:15:57,957
+and they're together that
+they have this uncomfortable silence.
+
+326
+00:15:58,458 --> 00:16:01,478
+It's like, "Now here's the moment where
+you guys can speak to each other."
+
+327
+00:16:01,994 --> 00:16:05,624
+And then they let it go,
+‘cause they're incapable of doing that.
+
+328
+00:16:06,232 --> 00:16:09,771
+We have the introduction of the lords.
+We had had it when they first arrived,
+
+329
+00:16:10,803 --> 00:16:14,643
+but it was nice to see them
+arrive by longship,
+
+330
+00:16:15,274 --> 00:16:17,174
+just to get a sense of who they are,
+
+331
+00:16:17,543 --> 00:16:20,673
+having their names
+announced by the pride of their clan.
+
+332
+00:16:21,214 --> 00:16:24,874
+Also, get a little sense of who
+their characters are in the boat,
+
+333
+00:16:25,485 --> 00:16:28,445
+but that there's instantaneously
+this rivalry between them.
+
+334
+00:16:28,955 --> 00:16:30,685
+So it doesn't come as a surprise
+in the next scene
+
+335
+00:16:31,023 --> 00:16:32,603
+where they actually get to the castle.
+
+336
+00:16:32,925 --> 00:16:34,295
+Weren't you playing drums on that?
+
+337
+00:16:34,594 --> 00:16:37,054
+I was playing drums.
+I'm the last guy who's rocking out.
+
+338
+00:16:37,497 --> 00:16:38,457
+We got that going on, yeah.
+
+339
+00:16:38,698 --> 00:16:40,278
+When you see them rolling in
+on those ships,
+
+340
+00:16:40,633 --> 00:16:41,683
+you want to feel, "Here comes trouble."
+
+341
+00:16:41,934 --> 00:16:43,954
+Absolutely. Absolutely.
+
+342
+00:16:45,505 --> 00:16:47,645
+In this sequence,
+we didn't always have the medallion.
+
+343
+00:16:48,040 --> 00:16:50,500
+We had it in other versions,
+but with the medallion,
+
+344
+00:16:50,943 --> 00:16:55,923
+we needed something later on
+to give to the Witch to pay for the spell,
+
+345
+00:16:56,716 --> 00:17:00,906
+but also to give Merida the spell
+in the first place, right?
+
+346
+00:17:01,587 --> 00:17:03,957
+Why would this witch
+come out of retirement
+
+347
+00:17:04,390 --> 00:17:09,080
+to do these spells if not for something
+that's really, really, really valuable.
+
+348
+00:17:09,829 --> 00:17:11,118
+And we had to go back in
+
+349
+00:17:11,396 --> 00:17:13,297
+and put the medallion into
+all those finished shots.
+
+350
+00:17:13,665 --> 00:17:16,296
+We wanted to feel that
+longing for that connection
+
+351
+00:17:16,769 --> 00:17:18,059
+that keeps falling away.
+
+352
+00:17:18,337 --> 00:17:19,827
+They have these moments
+where they could,
+
+353
+00:17:20,138 --> 00:17:23,448
+if they could remember the language,
+how to talk to each other.
+
+354
+00:17:24,010 --> 00:17:27,790
+And like a lot of parents and children,
+you can get out of sync with each other.
+
+355
+00:17:28,414 --> 00:17:30,844
+And you're wishing
+they would find a way to do it.
+
+356
+00:17:31,284 --> 00:17:33,944
+We actually cut this scene
+from the movie in one iteration
+
+357
+00:17:34,420 --> 00:17:36,230
+thinking that it was too much.
+But then later on,
+
+358
+00:17:36,889 --> 00:17:37,879
+once we had the movie together,
+
+359
+00:17:38,124 --> 00:17:39,934
+we realized
+that we needed to put it back in,
+
+360
+00:17:40,293 --> 00:17:42,102
+‘cause what it showed was
+
+361
+00:17:42,461 --> 00:17:45,591
+they had this moment that they missed,
+as characters.
+
+362
+00:17:46,132 --> 00:17:48,882
+They could have solved
+the whole dilemma right here
+
+363
+00:17:49,368 --> 00:17:51,038
+if they just talked to each other.
+
+364
+00:17:51,370 --> 00:17:53,010
+But neither of them do.
+
+365
+00:17:54,307 --> 00:17:57,817
+Here, all Merida has
+as she's dressed up by her mom,
+
+366
+00:17:58,411 --> 00:17:59,991
+she has one defiant gesture
+
+367
+00:18:00,313 --> 00:18:02,713
+and that's to pull her hair down
+out of that wimple,
+
+368
+00:18:03,149 --> 00:18:06,579
+so that she's taking
+some bit of control that she can be,
+
+369
+00:18:07,153 --> 00:18:09,233
+not just defiant, but her own person.
+
+370
+00:18:12,291 --> 00:18:14,021
+And now we're in here,
+this is the first time
+
+371
+00:18:14,360 --> 00:18:15,560
+we're kind of meeting the lords.
+
+372
+00:18:15,828 --> 00:18:18,168
+Which has always been in the film,
+hasn't it?
+
+373
+00:18:18,598 --> 00:18:20,328
+Yeah, there's always been
+this setting up the stakes
+
+374
+00:18:20,666 --> 00:18:24,356
+of the threat of these guys
+that are coming to Merida's fate.
+
+375
+00:18:24,971 --> 00:18:27,811
+We always had them where
+they didn't get along with each other,
+
+376
+00:18:28,307 --> 00:18:30,797
+so we knew they were always
+in danger of spinning off the rails
+
+377
+00:18:31,243 --> 00:18:33,763
+and going to war at a moment's notice.
+
+378
+00:18:34,213 --> 00:18:36,293
+So they were always
+brewing as this threat.
+
+379
+00:18:36,682 --> 00:18:39,432
+But the way to introduce them
+changed many times
+
+380
+00:18:39,919 --> 00:18:42,169
+over the course
+of the story development.
+
+381
+00:18:42,588 --> 00:18:44,518
+Well, part of her marriage
+is keeping the peace as well.
+
+382
+00:18:44,890 --> 00:18:46,850
+It's the inter-marriage between clans.
+
+383
+00:18:47,893 --> 00:18:49,913
+The fun thing about Fergus
+
+384
+00:18:50,296 --> 00:18:52,406
+setting up as not being
+a very good public speaker,
+
+385
+00:18:52,798 --> 00:18:55,488
+as all kings should probably be
+good public speakers,
+
+386
+00:18:55,968 --> 00:18:58,688
+was again to illustrate
+that Mom is there to back him up.
+
+387
+00:18:59,171 --> 00:19:01,781
+We had always talked about
+maybe she practiced with Fergus
+
+388
+00:19:02,241 --> 00:19:03,581
+of what he was going to say.
+
+389
+00:19:03,876 --> 00:19:05,336
+And as soon as he starts to blow it,
+
+390
+00:19:05,645 --> 00:19:09,565
+then she could very simply
+just jump up and fill in.
+
+391
+00:19:11,117 --> 00:19:13,107
+And here's her potential suitors.
+
+392
+00:19:13,486 --> 00:19:15,626
+We've got
+Mr. Captain Arrogance right here.
+
+393
+00:19:16,856 --> 00:19:18,256
+Which they weren't always
+in the film either.
+
+394
+00:19:18,557 --> 00:19:20,607
+For a long time it was
+just the lords themselves.
+
+395
+00:19:20,993 --> 00:19:24,713
+But we thought it was better to always
+have this parent’child relationship.
+
+396
+00:19:25,331 --> 00:19:27,991
+This is setting up, still,
+the competition between
+
+397
+00:19:28,467 --> 00:19:30,247
+all of the lords
+that are introducing their sons,
+
+398
+00:19:30,603 --> 00:19:32,413
+their stories get more extravagant
+
+399
+00:19:32,772 --> 00:19:36,252
+and each of their sons
+are clearly different characters.
+
+400
+00:19:36,842 --> 00:19:38,922
+And again, the animators
+just blew this out of the water.
+
+401
+00:19:39,311 --> 00:19:41,920
+Yeah, Young MacGuffin here
+being the shy,
+
+402
+00:19:42,381 --> 00:19:44,111
+afraid of his own powers,
+
+403
+00:19:44,450 --> 00:19:47,030
+even though he is the strongest,
+the most powerful one.
+
+404
+00:19:47,486 --> 00:19:50,006
+Macintosh, the first guy,
+with the sword being
+
+405
+00:19:50,456 --> 00:19:53,391
+all cocky pants and arrogant.
+
+406
+00:19:53,392 --> 00:19:53,532
+all cocky pants and arrogant.
+
+407
+00:19:53,659 --> 00:19:57,169
+And then this gag,
+which is one of my favorites.
+
+408
+00:19:57,763 --> 00:19:59,632
+-With Dingwall? Yeah.
+-With Dingwall.
+
+409
+00:19:59,999 --> 00:20:01,609
+He's always kind of
+the butt of everybody's joke.
+
+410
+00:20:01,934 --> 00:20:04,684
+I mean, we even wanted him where
+he came in on a little dinghy,
+
+411
+00:20:05,171 --> 00:20:06,541
+he never had a longboat.
+
+412
+00:20:06,839 --> 00:20:09,739
+Just 'cause he's so diminished and that
+his son is totally diminished, too.
+
+413
+00:20:10,242 --> 00:20:13,611
+But you have this hulking,
+we call him Conan, the big buff guy.
+
+414
+00:20:14,180 --> 00:20:16,840
+You know, that that is the hero.
+He has the hero physique.
+
+415
+00:20:17,316 --> 00:20:21,916
+But then just to illustrate that these are
+totally fish stories and exaggerated.
+
+416
+00:20:22,655 --> 00:20:24,795
+Also you can completely understand
+why Merida wouldn't like any of them.
+
+417
+00:20:25,191 --> 00:20:26,271
+Exactly.
+
+418
+00:20:26,525 --> 00:20:28,805
+And Kevin McKidd is speaking
+a dialect called Doric
+
+419
+00:20:29,228 --> 00:20:32,038
+which his mother speaks and he would
+send his lines home to her.
+
+420
+00:20:32,531 --> 00:20:35,341
+And she would give him a translation
+and he'd come in all ready
+
+421
+00:20:35,835 --> 00:20:38,465
+with this incomprehensible
+authentic dialect
+
+422
+00:20:38,938 --> 00:20:40,608
+to do his lines as Young MacGuffin.
+
+423
+00:20:40,940 --> 00:20:42,250
+Yeah, it was a great character piece.
+
+424
+00:20:42,541 --> 00:20:44,561
+And to have
+that character of Scotland in there,
+
+425
+00:20:44,944 --> 00:20:49,134
+because there are so many dialects
+in Scotland and it's so varied.
+
+426
+00:20:49,815 --> 00:20:51,515
+And that was another thing
+that really impressed me
+
+427
+00:20:51,851 --> 00:20:55,311
+when we were there researching,
+was how varied not only the terrain are,
+
+428
+00:20:55,888 --> 00:21:00,608
+but also the climates and the people
+and the dialects.
+
+429
+00:21:04,029 --> 00:21:06,549
+And this is clearly setting up
+
+430
+00:21:06,999 --> 00:21:09,869
+that Mom is the ultimate peacekeeper
+between all of the lords.
+
+431
+00:21:10,369 --> 00:21:13,708
+So this is, again,
+exposition through entertainment
+
+432
+00:21:14,273 --> 00:21:16,463
+so you realize as the film will go on,
+
+433
+00:21:16,876 --> 00:21:18,336
+this is information
+you need to be aware of
+
+434
+00:21:18,644 --> 00:21:20,574
+-that will happen later on.
+-Right.
+
+435
+00:21:20,946 --> 00:21:22,255
+If they're left to their own devices.
+
+436
+00:21:22,548 --> 00:21:25,068
+Yeah, I mean,
+they're just a big bunch of children,
+
+437
+00:21:25,518 --> 00:21:27,068
+and how easily they erupt into fighting.
+
+438
+00:21:27,386 --> 00:21:30,816
+Right? How can you run a kingdom
+with these guys being in charge?
+
+439
+00:21:31,390 --> 00:21:33,380
+But Elinor is able to calm it down.
+
+440
+00:21:33,759 --> 00:21:36,279
+And that's what
+this whole part of the sequence was for.
+
+441
+00:21:36,762 --> 00:21:39,601
+And there was a lot of talk about
+how violent the sequence was,
+
+442
+00:21:40,099 --> 00:21:41,829
+or how much fighting there was.
+
+443
+00:21:42,201 --> 00:21:43,431
+And there was actually
+more fighting in it
+
+444
+00:21:43,702 --> 00:21:45,722
+than what you're seeing
+in the current thing.
+
+445
+00:21:46,105 --> 00:21:48,795
+I cut it down a little bit,
+but just only a little bit.
+
+446
+00:21:49,275 --> 00:21:50,645
+A lot of it is still there.
+
+447
+00:21:50,943 --> 00:21:52,113
+A lot of it is in there.
+
+448
+00:21:52,378 --> 00:21:57,618
+But again, that, for the story point,
+is to pay off Elinor being able to do this.
+
+449
+00:21:58,484 --> 00:22:01,583
+This one thing, to be able to
+calm down everybody,
+
+450
+00:22:02,121 --> 00:22:04,641
+going into this hornet's nest
+and get them all in line.
+
+451
+00:22:05,090 --> 00:22:07,139
+That's the respect that she commands.
+
+452
+00:22:07,526 --> 00:22:10,486
+And even the King's walking back to
+his seat and sitting down,
+
+453
+00:22:10,996 --> 00:22:12,666
+cowed like a pet.
+
+454
+00:22:12,998 --> 00:22:15,868
+Then we learn later what happens when
+you take Mom out of this equation.
+
+455
+00:22:16,368 --> 00:22:18,388
+‘Cause you can guess at it now
+by watching this,
+
+456
+00:22:18,771 --> 00:22:22,171
+if Mom wasn't there,
+this would probably go on for days.
+
+457
+00:22:24,944 --> 00:22:26,614
+In this moment,
+we're trying to let the audience know
+
+458
+00:22:26,946 --> 00:22:28,285
+that Merida has something in mind.
+
+459
+00:22:28,581 --> 00:22:32,531
+We want to go to the games feeling like
+she's got a workaround for this problem.
+
+460
+00:22:33,185 --> 00:22:35,645
+She's sorted it out
+and heard something that Mom said.
+
+461
+00:22:36,088 --> 00:22:38,988
+And we played with this different ways,
+until we just...
+
+462
+00:22:39,491 --> 00:22:42,041
+We wanted to see the thinking
+and the problem solving on her face.
+
+463
+00:22:42,494 --> 00:22:44,394
+And it cracked us up,
+this animation of her
+
+464
+00:22:44,763 --> 00:22:46,783
+jumping out of her chair,
+"Archery, archery!"
+
+465
+00:22:47,166 --> 00:22:49,066
+And it was pretty late
+that we were giving her
+
+466
+00:22:49,435 --> 00:22:51,925
+the choice of which event
+that she could compete in.
+
+467
+00:22:52,371 --> 00:22:55,121
+But I think it really solidified it
+that she now has...
+
+468
+00:22:56,041 --> 00:22:56,890
+She's in a power position.
+
+469
+00:22:57,109 --> 00:23:00,359
+Right. And making it work logically
+with Mom's statement of,
+
+470
+00:23:00,913 --> 00:23:02,493
+here are the rules of this thing,
+
+471
+00:23:02,815 --> 00:23:05,035
+that it is customary for a princess
+
+472
+00:23:05,451 --> 00:23:08,851
+to pick the competition
+for these guys to compete in.
+
+473
+00:23:09,421 --> 00:23:13,291
+It just kind of lines up
+how she's going to solve this problem.
+
+474
+00:23:13,926 --> 00:23:15,916
+‘Cause she has no way out. Right?
+
+475
+00:23:16,295 --> 00:23:18,755
+She's stuck in this. How possibly
+is she gonna get out of this?
+
+476
+00:23:19,198 --> 00:23:20,928
+We wanted to feel like
+she was backed into a corner.
+
+477
+00:23:21,267 --> 00:23:23,457
+So you would forgive her for
+going against her mom
+
+478
+00:23:23,869 --> 00:23:26,418
+and trying to solve her own problem.
+
+479
+00:23:26,872 --> 00:23:28,362
+So we have the games here.
+
+480
+00:23:28,674 --> 00:23:32,684
+And again, this was part of
+the Scottish culture
+
+481
+00:23:33,345 --> 00:23:36,475
+where the Highland Games were
+mostly created so
+
+482
+00:23:37,016 --> 00:23:39,916
+you could practice war arts
+under the nose of the English
+
+483
+00:23:40,419 --> 00:23:41,999
+without them actually knowing.
+
+484
+00:23:42,321 --> 00:23:45,071
+So all the games
+go back to that kind of thing
+
+485
+00:23:45,557 --> 00:23:47,197
+versus how they are played today.
+
+486
+00:23:49,328 --> 00:23:51,228
+Here we see the triplets
+being chased by Maudie,
+
+487
+00:23:51,597 --> 00:23:53,587
+which is going to be a setup
+and a payoff for
+
+488
+00:23:53,966 --> 00:23:55,835
+later on in the film in the third act.
+
+489
+00:23:57,169 --> 00:23:58,629
+Fantastic atmosphere
+in the background,
+
+490
+00:23:58,938 --> 00:24:01,218
+just to set the depth of those Highlands.
+
+491
+00:24:01,640 --> 00:24:03,510
+-That is a Carnyx.
+-Carnyx, yeah.
+
+492
+00:24:03,876 --> 00:24:06,506
+Yeah. And that tongue actually moves.
+There's a little wooden piece with it.
+
+493
+00:24:06,979 --> 00:24:09,529
+Yeah, it was
+an actual war horn they would use,
+
+494
+00:24:09,982 --> 00:24:12,032
+usually shaped like a boar.
+
+495
+00:24:12,418 --> 00:24:16,287
+And so we adapted it to make it a bear.
+So it's thematically for our movie.
+
+496
+00:24:16,922 --> 00:24:19,702
+But they would use that 'cause
+it would rise up above the soldiers.
+
+497
+00:24:20,192 --> 00:24:23,002
+Yeah, it would be
+up above the attacking armies
+
+498
+00:24:23,495 --> 00:24:26,564
+and scare the other army to death.
+
+499
+00:24:27,099 --> 00:24:28,908
+That predates the bagpipe.
+
+500
+00:24:32,571 --> 00:24:36,031
+The crowds in this movie
+are spectacular.
+
+501
+00:24:36,608 --> 00:24:39,678
+They're just amazing.
+I mean, just the character design.
+
+502
+00:24:40,212 --> 00:24:42,962
+I don't know how many different people
+we actually had
+
+503
+00:24:43,449 --> 00:24:45,089
+and different hair designs
+and different clothes
+
+504
+00:24:45,417 --> 00:24:49,167
+that they could inter-swap just to
+make them this mass of individuals.
+
+505
+00:24:49,788 --> 00:24:52,368
+It just really works fantastic.
+
+506
+00:24:53,993 --> 00:24:54,525
+And just again setting up
+character through action.
+
+507
+00:24:54,526 --> 00:24:56,106
+And just again setting up
+character through action.
+
+508
+00:24:56,428 --> 00:24:59,828
+Every one of these archers has
+a different way of shooting that bow.
+
+509
+00:25:01,500 --> 00:25:02,640
+And this guy is just hilarious.
+
+510
+00:25:02,901 --> 00:25:05,451
+And his little groupie girls behind him.
+
+511
+00:25:08,574 --> 00:25:10,214
+Long ago we had
+a version of this where,
+
+512
+00:25:10,542 --> 00:25:12,151
+before we had the lords' sons,
+
+513
+00:25:12,478 --> 00:25:14,118
+there was a version of the games
+
+514
+00:25:14,446 --> 00:25:18,866
+where Merida just didn't like this idea of
+these guys playing for her at all.
+
+515
+00:25:19,585 --> 00:25:21,775
+And so she just gets in there
+and starts a brawl.
+
+516
+00:25:22,187 --> 00:25:23,996
+-We actually had a haggis toss.
+-Yeah, yeah, yeah.
+
+517
+00:25:24,356 --> 00:25:26,166
+And as the haggis was being lobbed
+high in the air
+
+518
+00:25:26,525 --> 00:25:28,575
+she shoots through one of the haggis
+and drenches everybody
+
+519
+00:25:28,961 --> 00:25:31,041
+and causes this blowup
+that turns into a fistfight.
+
+520
+00:25:31,430 --> 00:25:34,060
+So as we worked on the story
+we kind of dialed in
+
+521
+00:25:34,533 --> 00:25:36,233
+and made it these
+very specific characters
+
+522
+00:25:36,568 --> 00:25:40,258
+that she's showing up
+instead of the kind of general crowd.
+
+523
+00:25:40,873 --> 00:25:42,363
+Right. Which works really well because
+
+524
+00:25:42,674 --> 00:25:45,954
+we establish in the scene before
+that this is part of the tradition.
+
+525
+00:25:46,512 --> 00:25:47,881
+This is a thing that happens
+
+526
+00:25:48,180 --> 00:25:51,990
+and that there are
+specific rules for this tradition.
+
+527
+00:25:52,618 --> 00:25:55,398
+And Merida has found, as the
+impetuous teenager always does,
+
+528
+00:25:55,888 --> 00:25:58,518
+the exception to the rules,
+or the loophole for the rules.
+
+529
+00:25:58,991 --> 00:26:03,031
+So, she's actually right.
+She's following the rules in her mind.
+
+530
+00:26:03,729 --> 00:26:07,039
+But at the end of the day
+she's taken advantage of the system
+
+531
+00:26:07,599 --> 00:26:11,668
+and made everybody look like fools
+and that's what leads to this big blowup.
+
+532
+00:26:13,372 --> 00:26:15,072
+But we're wanting to
+agree with her at this point.
+
+533
+00:26:15,407 --> 00:26:17,867
+-We are forcing her into a corner.
+-Yeah, we're one on her side.
+
+534
+00:26:18,310 --> 00:26:20,040
+I mean, what princess would want to be
+
+535
+00:26:20,379 --> 00:26:22,658
+forced to marry somebody
+she doesn't want to?
+
+536
+00:26:23,082 --> 00:26:25,192
+The idea of the dress ripping
+has been there forever.
+
+537
+00:26:25,584 --> 00:26:28,454
+Because it's, again,
+another symbol of Mom
+
+538
+00:26:28,954 --> 00:26:31,384
+and the way Mom has identified Merida.
+
+539
+00:26:31,824 --> 00:26:35,224
+And Merida is pushing back against
+that in a really visual, tangible way.
+
+540
+00:26:36,562 --> 00:26:39,022
+And for a long time she was never able
+to make the third shot.
+
+541
+00:26:39,465 --> 00:26:41,635
+Mom was always able
+to stop that third shot.
+
+542
+00:26:42,067 --> 00:26:44,937
+And then Nick here says,
+"What if she does win?"
+
+543
+00:26:45,437 --> 00:26:47,577
+Yeah, it just creates for bigger stakes.
+
+544
+00:26:47,973 --> 00:26:49,753
+l also wanted to do this in slow motion
+
+545
+00:26:50,109 --> 00:26:54,799
+to really just put the aspect of,
+she is winning herself.
+
+546
+00:26:55,547 --> 00:26:59,447
+And she has to beat them undoubtedly,
+in no uncertain terms,
+
+547
+00:27:00,085 --> 00:27:03,565
+that she is the best and so
+you couldn't argue it away from her.
+
+548
+00:27:04,156 --> 00:27:05,495
+So, I really wanted to slow it down.
+
+549
+00:27:05,791 --> 00:27:08,660
+I had a lot more slow motion moments
+in the sequence.
+
+550
+00:27:09,161 --> 00:27:11,531
+And it stayed too long in Nick's terms.
+
+551
+00:27:11,964 --> 00:27:14,454
+-We overstayed our welcome?
+-That's correct.
+
+552
+00:27:14,900 --> 00:27:16,100
+But we really get to break down and see
+
+553
+00:27:16,368 --> 00:27:18,328
+the archers' paradox
+that happens with the bow.
+
+554
+00:27:18,704 --> 00:27:20,924
+You guys can
+look that up on Wikipedia.
+
+555
+00:27:21,340 --> 00:27:22,600
+But it actually occurs.
+
+556
+00:27:23,242 --> 00:27:24,262
+The argument.
+
+557
+00:27:24,510 --> 00:27:26,910
+This was a scene that we had
+done really early on in the film.
+
+558
+00:27:27,346 --> 00:27:29,306
+And it always remained as
+the ultimate fight,
+
+559
+00:27:29,681 --> 00:27:31,461
+the knock-down drag-out
+between Mom and Merida here
+
+560
+00:27:31,817 --> 00:27:33,747
+that we really wanted to
+kick off the rest of the film.
+
+561
+00:27:34,119 --> 00:27:36,259
+Yeah, Emma Thompson worked
+herself up into a froth
+
+562
+00:27:36,655 --> 00:27:38,085
+when she was doing this scene.
+It was amazing,
+
+563
+00:27:38,390 --> 00:27:40,670
+‘cause she actually had the stool
+in the studio
+
+564
+00:27:41,093 --> 00:27:42,643
+in her hands and her face turned red.
+
+565
+00:27:42,961 --> 00:27:45,421
+And she had really gotten herself
+into a state
+
+566
+00:27:45,864 --> 00:27:47,944
+to get Mom's rage in this moment.
+
+567
+00:27:48,333 --> 00:27:50,413
+It's like all that bottled up rage
+
+568
+00:27:50,802 --> 00:27:52,992
+at her daughter's misbehavior
+is coming out.
+
+569
+00:27:53,405 --> 00:27:54,665
+Well, there's something great
+in this scene, too,
+
+570
+00:27:54,940 --> 00:27:57,160
+that they really go at each other here.
+
+571
+00:27:57,576 --> 00:28:01,616
+But they both cross the line
+and regret it.
+
+572
+00:28:02,281 --> 00:28:04,860
+Merida chops that tapestry
+and Mom burns that bow,
+
+573
+00:28:05,317 --> 00:28:08,977
+but you quickly see that they
+come down out of their tempers.
+
+574
+00:28:09,588 --> 00:28:13,947
+Right. There's hypocrisy that's going on
+in this scene for both characters.
+
+575
+00:28:14,660 --> 00:28:17,440
+That they're both unwilling to yield,
+
+576
+00:28:17,930 --> 00:28:21,360
+and, yeah, they cross the line in their
+attempt to punish the other person.
+
+577
+00:28:21,934 --> 00:28:23,864
+And it just all goes bad from there.
+
+578
+00:28:24,636 --> 00:28:27,946
+Yeah, and Emma dialed up the intensity
+even more so than she had before.
+
+579
+00:28:28,507 --> 00:28:30,497
+And she adlibbed that line,
+
+580
+00:28:30,876 --> 00:28:32,836
+"It'll be fire and sword
+if it's not set right."
+
+581
+00:28:33,212 --> 00:28:36,372
+We loved when our actors would
+give us material like that
+
+582
+00:28:36,915 --> 00:28:38,225
+that felt really authentic.
+
+583
+00:28:38,517 --> 00:28:40,657
+I mean, Emma Thompson's
+a writer in her own right.
+
+584
+00:28:41,053 --> 00:28:44,533
+So, it was great to work with her
+and get her suggestions
+
+585
+00:28:45,123 --> 00:28:46,873
+and it was like
+watching a private performance
+
+586
+00:28:47,226 --> 00:28:48,426
+every time we're recording her.
+
+587
+00:28:48,694 --> 00:28:49,744
+And Mom knew
+she was wrong right away.
+
+588
+00:28:49,995 --> 00:28:50,844
+Like a parent,
+
+589
+00:28:51,396 --> 00:28:52,626
+sometimes you step over the line
+
+590
+00:28:52,898 --> 00:28:54,328
+and realize you're acting like a kid.
+
+591
+00:28:54,633 --> 00:28:56,473
+And she regrets it right away
+
+592
+00:28:56,835 --> 00:28:59,555
+when she steps over
+and hurts that precious bow.
+
+593
+00:29:00,038 --> 00:29:02,088
+This is the same bow that Dad
+gave her in the beginning of the movie.
+
+594
+00:29:02,474 --> 00:29:03,874
+Merida, in this moment,
+we always felt like
+
+595
+00:29:04,176 --> 00:29:05,755
+she was a teenager that got into her car
+
+596
+00:29:06,078 --> 00:29:07,628
+and drove out of the driveway
+and took off.
+
+597
+00:29:07,946 --> 00:29:10,966
+And she's just letting Angus
+run wherever he wants.
+
+598
+00:29:11,483 --> 00:29:13,503
+She's just along for the ride
+and just wailing.
+
+599
+00:29:14,286 --> 00:29:16,066
+And this scene here, the ring of stones,
+
+600
+00:29:16,421 --> 00:29:20,081
+we had debated for a long time
+on how to introduce this location.
+
+601
+00:29:20,692 --> 00:29:22,062
+There was even a time
+earlier on in the film
+
+602
+00:29:22,361 --> 00:29:25,291
+where Merida and her dad
+had actually seen this spot before
+
+603
+00:29:25,797 --> 00:29:27,607
+and now she's going to return to it.
+
+604
+00:29:27,966 --> 00:29:29,226
+But ultimately we came down to,
+
+605
+00:29:29,501 --> 00:29:32,491
+"Just let her visit the place
+when she happens to go there."
+
+606
+00:29:33,005 --> 00:29:36,195
+Right. These big standing stones
+that are around in Scotland
+
+607
+00:29:36,742 --> 00:29:38,822
+that were set up by the Picts
+or who knows who
+
+608
+00:29:39,211 --> 00:29:42,611
+and what their purpose was
+is still in question.
+
+609
+00:29:43,215 --> 00:29:46,845
+But there's ideas about fairy rings
+and circle rings being magical.
+
+610
+00:29:47,452 --> 00:29:50,232
+And for our purposes in Brave
+this circle ring is magical.
+
+611
+00:29:50,722 --> 00:29:53,762
+It ends up being a type of portal
+that we always return to.
+
+612
+00:29:54,293 --> 00:29:55,753
+And Angus knows it and Angus...
+
+613
+00:29:56,061 --> 00:29:59,721
+That animal sense is why
+he won't cross into the circle,
+
+614
+00:30:00,332 --> 00:30:01,792
+is that something is going to happen.
+
+615
+00:30:02,100 --> 00:30:05,320
+He kind of understands that
+on his animalistic level.
+
+616
+00:30:05,871 --> 00:30:07,511
+We were inspired by
+the Callanish stones
+
+617
+00:30:07,839 --> 00:30:10,009
+which we saw on our research trip.
+
+618
+00:30:10,409 --> 00:30:13,569
+But there's all kinds of stones like this
+scattered around in Scotland.
+
+619
+00:30:14,112 --> 00:30:17,072
+You could just find a strange stone
+in someone's backyard.
+
+620
+00:30:17,582 --> 00:30:19,132
+Right. Whether they were
+stood up by giants, or...
+
+621
+00:30:19,451 --> 00:30:22,061
+One of our guys
+had a great idea, a theory
+
+622
+00:30:22,521 --> 00:30:25,301
+that they were way markers
+for navigating across land.
+
+623
+00:30:25,791 --> 00:30:26,811
+That you'd be able to see them
+
+624
+00:30:27,059 --> 00:30:31,219
+and they'd point you in a direction of
+where the next stones were,
+
+625
+00:30:31,897 --> 00:30:33,506
+or where the next town or village
+or city was.
+
+626
+00:30:33,832 --> 00:30:35,352
+And I thought was
+a really interesting idea.
+
+627
+00:30:35,667 --> 00:30:37,447
+l hadn't heard that one before.
+
+628
+00:30:37,803 --> 00:30:41,753
+But the wisps here are leading her
+to her fate or a possible fate.
+
+629
+00:30:42,407 --> 00:30:43,547
+And she follows them,
+
+630
+00:30:43,809 --> 00:30:45,829
+like she followed them
+at the beginning of the movie,
+
+631
+00:30:46,211 --> 00:30:49,081
+which leads her to the Witch's cottage.
+
+632
+00:30:49,581 --> 00:30:50,950
+Feel the lighting going darker.
+
+633
+00:30:51,249 --> 00:30:54,089
+We know we're getting into
+unchartered terrain in here,
+
+634
+00:30:55,020 --> 00:30:55,870
+and that it's a little more threatening.
+
+635
+00:30:56,088 --> 00:30:58,168
+A little bit more Snow White
+to the forest here.
+
+636
+00:30:58,557 --> 00:31:01,957
+Yeah, magical going from
+the light side into the dark side.
+
+637
+00:31:02,527 --> 00:31:03,817
+This ancient black house cottage.
+
+638
+00:31:04,096 --> 00:31:06,496
+It looks like the cottages
+that we saw in Scotland as well.
+
+639
+00:31:06,932 --> 00:31:07,832
+Stone cottage with...
+
+640
+00:31:08,066 --> 00:31:10,876
+Covered with like grass
+and moss on top.
+
+641
+00:31:12,270 --> 00:31:17,050
+Now this scene was the very first scene
+that we ever got approved
+
+642
+00:31:17,809 --> 00:31:19,509
+to go into production on the film,
+
+643
+00:31:19,845 --> 00:31:21,155
+but actually turned out to be
+
+644
+00:31:21,446 --> 00:31:26,485
+the very last scene we actually
+got finalized in making the film.
+
+645
+00:31:27,285 --> 00:31:30,565
+Yeah, there was so many different
+versions of who this Witch was.
+
+646
+00:31:31,123 --> 00:31:32,763
+And how even Merida even entered
+
+647
+00:31:33,091 --> 00:31:35,700
+or discovered
+what was really going on in this set.
+
+648
+00:31:36,161 --> 00:31:39,201
+Julie Walters does
+a fantastic job with the voice.
+
+649
+00:31:39,731 --> 00:31:41,901
+And we went over a lot of ground,
+
+650
+00:31:42,300 --> 00:31:48,010
+really nailing down and getting specific
+with who this character was.
+
+651
+00:31:48,907 --> 00:31:52,887
+From a nice old lady to a maniac lady
+to a ditzy lady.
+
+652
+00:31:53,545 --> 00:31:55,065
+She tried it tons of different ways
+
+653
+00:31:55,380 --> 00:31:57,630
+before we finally
+got the scene working right.
+
+654
+00:31:58,049 --> 00:32:00,269
+And now she's just
+kind of a proud salesman.
+
+655
+00:32:00,685 --> 00:32:04,315
+This kindly old lady who just does art
+in the back of her house,
+
+656
+00:32:04,923 --> 00:32:08,233
+but is very excited about
+the prospect of having a customer.
+
+657
+00:32:08,794 --> 00:32:12,014
+At one point we had her as this
+addled lunatic that had cabin fever.
+
+658
+00:32:12,564 --> 00:32:14,844
+And when she'd see a wisp,
+it was like a mouse in her kitchen
+
+659
+00:32:15,267 --> 00:32:17,107
+and she'd just wail at it with her broom.
+
+660
+00:32:17,469 --> 00:32:20,929
+We're really fighting
+what everybody knows about witches.
+
+661
+00:32:21,506 --> 00:32:22,306
+We've seen them so much
+in films and in literature
+
+662
+00:32:22,307 --> 00:32:23,917
+We've seen them so much
+in films and in literature
+
+663
+00:32:24,242 --> 00:32:26,292
+that they come with their own baggage.
+
+664
+00:32:26,678 --> 00:32:31,248
+So how do we make it fresh and new
+and super entertaining.
+
+665
+00:32:31,983 --> 00:32:33,243
+The Crow character is unique
+
+666
+00:32:33,518 --> 00:32:36,358
+in that we discovered along the way
+of building the scene.
+
+667
+00:32:36,855 --> 00:32:40,575
+We found that the Witch doesn't have
+anybody to counter off of.
+
+668
+00:32:41,193 --> 00:32:42,943
+So, how do you
+make this organic scene happen
+
+669
+00:32:43,295 --> 00:32:44,995
+with just Merida asking questions?
+
+670
+00:32:45,330 --> 00:32:47,960
+And she was not necessarily
+going to ask the correct questions.
+
+671
+00:32:48,433 --> 00:32:52,123
+Also, how do we find out that
+she's actually a witch and does spells.
+
+672
+00:32:52,737 --> 00:32:54,787
+So, came up
+with this idea of having a crow.
+
+673
+00:32:55,173 --> 00:32:57,803
+You know, like a familiar pet
+that can actually talk,
+
+674
+00:32:58,276 --> 00:33:01,586
+and that would ultimately
+give away that she's a witch.
+
+675
+00:33:02,147 --> 00:33:05,107
+But the Crow had a larger role
+in one of the versions of the scenes
+
+676
+00:33:05,617 --> 00:33:07,637
+where they acted
+like an old married couple.
+
+677
+00:33:08,019 --> 00:33:10,679
+It would antagonize her and
+she'd tell it to shut up and everything.
+
+678
+00:33:11,156 --> 00:33:13,816
+And he would mutter to himself,
+"lL was a man. l was a man."
+
+679
+00:33:14,292 --> 00:33:15,581
+We thought that was fantastic.
+
+680
+00:33:15,861 --> 00:33:18,881
+And so Steve actually
+does the voice of the Crow.
+
+681
+00:33:19,397 --> 00:33:21,706
+And he does an excellent job.
+
+682
+00:33:22,133 --> 00:33:24,593
+We knew in the sequence
+it was a pivotal moment
+
+683
+00:33:25,036 --> 00:33:28,936
+for Merida to get the device
+that was going to alter her life
+
+684
+00:33:29,574 --> 00:33:31,154
+and set things in motion.
+
+685
+00:33:31,476 --> 00:33:35,346
+But we also had to learn that the
+Witch and Mor'du had a relationship,
+
+686
+00:33:35,981 --> 00:33:38,941
+that she dealt out the same type of spell
+ora spell for him, too,
+
+687
+00:33:39,451 --> 00:33:41,091
+that we find out later is the same.
+
+688
+00:33:41,419 --> 00:33:43,669
+But how do we
+get those kinds of exposition
+
+689
+00:33:44,089 --> 00:33:46,168
+that we absolutely need to have,
+
+690
+00:33:46,558 --> 00:33:48,578
+and make it entertaining?
+
+691
+00:33:48,960 --> 00:33:51,800
+Yeah, there are a group of elements
+floating around in the story,
+
+692
+00:33:52,297 --> 00:33:54,787
+the first being Mom's story
+about the ancient kingdom,
+
+693
+00:33:55,233 --> 00:33:57,133
+and then you get
+a second set of information
+
+694
+00:33:57,502 --> 00:33:59,841
+when you're in here about the prince.
+
+695
+00:34:00,539 --> 00:34:03,559
+And then it's not until the ruins
+that you find out the full story.
+
+696
+00:34:04,075 --> 00:34:05,005
+Right.
+
+697
+00:34:05,243 --> 00:34:06,993
+We came up with this idea that
+
+698
+00:34:07,345 --> 00:34:09,395
+when she walks in
+it's a wood carver's shop
+
+699
+00:34:09,781 --> 00:34:11,181
+to throw off the audience to the scent.
+
+700
+00:34:11,483 --> 00:34:14,703
+And also, Merida, what she's expecting
+the wisps lead her to.
+
+701
+00:34:15,253 --> 00:34:16,893
+So she's entirely confused.
+
+702
+00:34:17,222 --> 00:34:18,482
+And she's kind of like a witch in hiding.
+
+703
+00:34:18,757 --> 00:34:21,597
+We kept a lot of these elements
+that she was a witch,
+
+704
+00:34:22,092 --> 00:34:23,822
+she doesn't want to do it anymore
+because of...
+
+705
+00:34:24,161 --> 00:34:25,942
+Well, you deal with magic
+and things go bad.
+
+706
+00:34:26,297 --> 00:34:27,408
+And she doesn't want to do that.
+
+707
+00:34:27,666 --> 00:34:29,886
+And she finds her true bliss,
+which was in carving.
+
+708
+00:34:30,302 --> 00:34:33,022
+Of course, we had these questions
+come up of, "Why a bear?"
+
+709
+00:34:33,505 --> 00:34:36,055
+Why does the spell
+always turn people into bears?
+
+710
+00:34:36,507 --> 00:34:39,467
+And we went round and around
+with a bunch of different ideas.
+
+711
+00:34:39,978 --> 00:34:41,467
+We finally
+just made her this wood carver
+
+712
+00:34:41,780 --> 00:34:43,920
+and all she carves was bears
+because she's just obsessed
+
+713
+00:34:44,315 --> 00:34:45,545
+and just left it at that.
+
+714
+00:34:45,817 --> 00:34:47,717
+‘Cause it doesn't really, ultimately,
+at the end of the day,
+
+715
+00:34:48,085 --> 00:34:49,515
+need to be explained.
+
+716
+00:34:49,821 --> 00:34:52,721
+You know, whether she only knew
+one trick out of a book.
+
+717
+00:34:53,224 --> 00:34:55,834
+So she doesn't want to
+give Merida the spell,
+
+718
+00:34:56,293 --> 00:34:57,814
+‘cause she doesn't want to
+go back down those roads
+
+719
+00:34:58,129 --> 00:34:59,529
+and into her past.
+
+720
+00:34:59,831 --> 00:35:02,231
+So Merida having the necklace
+
+721
+00:35:02,667 --> 00:35:06,507
+be an essential part of
+getting the spell from her,
+
+722
+00:35:07,138 --> 00:35:09,478
+being this expensive jeweled thing
+
+723
+00:35:09,908 --> 00:35:12,248
+that Merida would
+buy all the wood from her,
+
+724
+00:35:12,677 --> 00:35:13,987
+we thought was an element that worked.
+
+725
+00:35:14,279 --> 00:35:16,499
+And also kept the idea of the necklace.
+
+726
+00:35:16,915 --> 00:35:20,755
+‘Cause the necklace used to be
+another birthday present for Merida
+
+727
+00:35:21,386 --> 00:35:22,496
+given to her by her mom.
+
+728
+00:35:22,754 --> 00:35:24,654
+And it had much more
+of a significant value
+
+729
+00:35:25,023 --> 00:35:26,223
+that we kind of took away.
+
+730
+00:35:26,491 --> 00:35:30,941
+And just had it as part of
+Mom dressing her up to be like her.
+
+731
+00:35:31,663 --> 00:35:33,943
+We see Mom wearing it
+at the beginning of the movie,
+
+732
+00:35:34,366 --> 00:35:38,466
+but we don't go into that kind of value
+as deeply as we did.
+
+733
+00:35:39,137 --> 00:35:41,537
+I love that all the most dramatic
+and unusual lighting
+
+734
+00:35:41,973 --> 00:35:44,843
+is in the sequences with the Witch.
+The most, kind of...
+
+735
+00:35:45,343 --> 00:35:47,743
+The greens and the odd back lighting
+
+736
+00:35:48,179 --> 00:35:51,249
+and the reds and stuff
+are coming out in her sequences.
+
+737
+00:35:54,986 --> 00:35:57,415
+In the background
+Dad is singing this drinking song.
+
+738
+00:35:57,856 --> 00:35:59,496
+And we just wanted to
+keep alive the idea
+
+739
+00:35:59,824 --> 00:36:02,544
+that there's this dangerous situation
+brewing in the castle.
+
+740
+00:36:03,662 --> 00:36:06,292
+And so, it was kind of inspired by
+things like Pirates Of The Caribbean,
+
+741
+00:36:06,765 --> 00:36:09,754
+where it's this good-natured song
+about doing terrible things.
+
+742
+00:36:10,268 --> 00:36:11,118
+In this case it's about
+
+743
+00:36:11,336 --> 00:36:12,825
+how many different ways
+they're going to kill Mor'du
+
+744
+00:36:13,138 --> 00:36:15,218
+and slaughter him and make stew
+out of him and things like that.
+
+745
+00:36:15,607 --> 00:36:17,567
+And, Steve, you wrote a lot of that,
+didn't you?
+
+746
+00:36:17,942 --> 00:36:19,492
+Alex Mandel and I wrote a version.
+
+747
+00:36:19,811 --> 00:36:22,061
+And then Patrick Doyle
+wrote a more Scottish version
+
+748
+00:36:22,480 --> 00:36:24,850
+that has a lot more
+Scottish references in it.
+
+749
+00:36:25,283 --> 00:36:27,833
+We got our loop group together
+and taught them the song
+
+750
+00:36:28,286 --> 00:36:30,016
+and it was like an old drinking song.
+
+751
+00:36:30,355 --> 00:36:32,695
+It was singing it in rounds,
+it was fantastic fun.
+
+752
+00:36:33,124 --> 00:36:34,964
+Yes, so we wanted to
+hit the story notes of,
+
+753
+00:36:35,326 --> 00:36:37,576
+you know, that Dad's been
+looking for this bear for a long time
+
+754
+00:36:37,996 --> 00:36:40,486
+and plans to hang his head
+up on the wall as soon as he can.
+
+755
+00:36:40,932 --> 00:36:42,571
+There's a little moment of hesitation
+in here
+
+756
+00:36:42,901 --> 00:36:46,241
+where Merida thinks Mom has already
+come around to her way of thinking.
+
+757
+00:36:46,805 --> 00:36:50,964
+And it makes her question whether
+she should see this spell through or not.
+
+758
+00:36:51,643 --> 00:36:54,393
+Merida thinks her mom is relenting
+and she's going to get her way,
+
+759
+00:36:54,879 --> 00:36:56,049
+therefore, no need for the cake.
+
+760
+00:36:56,314 --> 00:36:57,274
+But then when Mom goes,
+
+761
+00:36:57,515 --> 00:36:59,535
+"But you still have to
+go through with everything,"
+
+762
+00:36:59,918 --> 00:37:01,088
+then she's going to give her this cake.
+
+763
+00:37:01,352 --> 00:37:04,892
+Now, Mom is totally misunderstanding
+thinking Merida's totally solved
+
+764
+00:37:05,490 --> 00:37:07,569
+and will go along
+with her way of doing things,
+
+765
+00:37:07,959 --> 00:37:10,979
+not knowing
+that she's being had right now.
+
+766
+00:37:11,496 --> 00:37:13,306
+And we kept talking about this moment
+
+767
+00:37:13,665 --> 00:37:16,735
+of what does Merida expect
+the spell cake is going to do?
+
+768
+00:37:17,268 --> 00:37:19,048
+Change her right away?
+
+769
+00:37:19,404 --> 00:37:20,634
+Is she going to just up and eat it and go,
+
+770
+00:37:20,905 --> 00:37:22,906
+"You know what, on second thought
+you don't have to get married."
+
+771
+00:37:22,907 --> 00:37:23,457
+"You know what, on second thought
+you don't have to get married."
+
+772
+00:37:23,641 --> 00:37:25,781
+So, Merida is
+constantly staring at her mom
+
+773
+00:37:26,177 --> 00:37:27,757
+looking for any sign of change.
+
+774
+00:37:28,079 --> 00:37:32,269
+And we just keep that build-up going
+until we get our answer a little later.
+
+775
+00:37:32,951 --> 00:37:35,611
+Yeah, our big brain trust note
+for this idea was,
+
+776
+00:37:36,087 --> 00:37:39,047
+you wanted to feel like Mom turned into
+the worst possible thing
+
+777
+00:37:39,557 --> 00:37:42,216
+that she could be in this situation,
+which was a bear.
+
+778
+00:37:42,694 --> 00:37:45,214
+Because everybody in this place hates
+bears and wants to do away with them.
+
+779
+00:37:45,663 --> 00:37:46,743
+Right. And just keep that,
+
+780
+00:37:46,998 --> 00:37:50,658
+it's the fun-naturedness of Fergus
+that we have
+
+781
+00:37:51,269 --> 00:37:53,729
+that, when it actually happens
+and there's a bear in the castle,
+
+782
+00:37:54,172 --> 00:37:56,282
+he is like the Terminator
+going after this bear.
+
+783
+00:37:56,674 --> 00:37:57,604
+So we had that contrast.
+
+784
+00:37:57,842 --> 00:37:58,712
+For him it's an adventure.
+
+785
+00:37:58,943 --> 00:38:01,083
+It's like Jaws,
+when those guys go after the shark,
+
+786
+00:38:01,479 --> 00:38:03,149
+it's scary but it's fun at the same time.
+
+787
+00:38:03,481 --> 00:38:05,381
+It's got this adventure spirit to it.
+
+788
+00:38:05,750 --> 00:38:08,440
+l remember we used to have
+Mom physically change
+
+789
+00:38:08,920 --> 00:38:11,090
+that she would grow hair,
+her fingernails.
+
+790
+00:38:11,489 --> 00:38:13,039
+And it started in this scene
+a long time ago,
+
+791
+00:38:13,358 --> 00:38:15,028
+the shots still remain the same.
+
+792
+00:38:15,360 --> 00:38:17,990
+But after a while it was that we were
+taking a lot of those elements out
+
+793
+00:38:18,463 --> 00:38:20,133
+to keep the surprise
+as much as possible.
+
+794
+00:38:20,465 --> 00:38:21,545
+And there was also that idea
+
+795
+00:38:21,800 --> 00:38:24,460
+that she was changing into
+and looking like Fergus,
+
+796
+00:38:24,936 --> 00:38:26,666
+because he was a bear king.
+
+797
+00:38:27,005 --> 00:38:29,525
+And so you think
+she's going to turn into him,
+
+798
+00:38:29,974 --> 00:38:31,344
+but then ultimately turns into a bear.
+
+799
+00:38:31,643 --> 00:38:33,983
+So it was kind of confusing.
+
+800
+00:38:34,412 --> 00:38:36,582
+"What are we actually saying?
+What direction are we going?"
+
+801
+00:38:36,981 --> 00:38:40,731
+So we stripped that back out
+and gave her this tummy ache instead,
+
+802
+00:38:41,352 --> 00:38:42,642
+which was very entertaining.
+
+803
+00:38:42,921 --> 00:38:45,640
+But Merida doesn't know
+what to expect with the spell.
+
+804
+00:38:46,124 --> 00:38:47,584
+Is it working or not?
+
+805
+00:38:47,892 --> 00:38:49,292
+When is Mom just going to turn around
+
+806
+00:38:49,594 --> 00:38:50,904
+and say, "You know what,
+this whole thing is over,
+
+807
+00:38:51,196 --> 00:38:52,596
+"let me go talk to everybody"?
+
+808
+00:38:52,897 --> 00:38:54,207
+So, we just keep that idea going.
+
+809
+00:38:54,499 --> 00:38:57,488
+One of the original concepts was that
+she wanted Mom to be more like Dad.
+
+810
+00:38:58,002 --> 00:38:58,872
+Right.
+
+811
+00:38:59,103 --> 00:39:01,153
+‘Cause Dad was much more
+easygoing on her
+
+812
+00:39:01,539 --> 00:39:03,119
+and less demanding of Merida.
+
+813
+00:39:03,441 --> 00:39:05,140
+Right. So, to solve her problem,
+
+814
+00:39:05,476 --> 00:39:06,646
+"If Mom became Dad
+
+815
+00:39:07,212 --> 00:39:08,062
+"I'd be done."
+
+816
+00:39:08,279 --> 00:39:09,739
+But again, we took that back out
+
+817
+00:39:10,048 --> 00:39:13,388
+because I didn't want the story
+to be about parent comparison.
+
+818
+00:39:13,952 --> 00:39:15,532
+-Competition between parents.
+-Yeah.
+
+819
+00:39:15,854 --> 00:39:17,343
+So, along the way
+we just wanted to feel that
+
+820
+00:39:17,655 --> 00:39:19,205
+Merida is totally obsessed with the idea
+
+821
+00:39:19,524 --> 00:39:21,223
+that Mom is going to
+change into something.
+
+822
+00:39:21,559 --> 00:39:22,639
+Not necessarily physically,
+
+823
+00:39:22,894 --> 00:39:26,084
+but just the idea of
+coming around to her way of thinking.
+
+824
+00:39:31,169 --> 00:39:33,749
+Some of this transformation
+was inspired by...
+
+825
+00:39:34,205 --> 00:39:36,545
+We were looking for humor and horror
+at the same time.
+
+826
+00:39:36,975 --> 00:39:40,015
+And so one of the references that
+we were thinking about was Pinocchio,
+
+827
+00:39:40,545 --> 00:39:44,415
+when kids turn into donkeys and
+how it's kind of horrifying and shadowy
+
+828
+00:39:45,049 --> 00:39:47,919
+and there's a strange goofiness to it
+at the same time.
+
+829
+00:39:48,419 --> 00:39:50,669
+So, when she's smashing into the bed
+and everything it's funny,
+
+830
+00:39:51,089 --> 00:39:53,489
+but the size of it,
+the scale of the transformation
+
+831
+00:39:53,925 --> 00:39:55,035
+can be scary at the same time.
+
+832
+00:39:55,293 --> 00:39:58,923
+Yeah, there's a great contrast
+of reality and comedy
+
+833
+00:39:59,530 --> 00:40:01,110
+that happens in this sequence,
+
+834
+00:40:01,432 --> 00:40:04,452
+that we know the sequence was working
+when we were getting it.
+
+835
+00:40:04,969 --> 00:40:08,249
+You know, where you were scared
+but it wasn't horrific
+
+836
+00:40:08,806 --> 00:40:09,796
+and you can laugh at the same time.
+
+837
+00:40:10,041 --> 00:40:11,271
+Then go, "Oh, my gosh,
+that thing is huge."
+
+838
+00:40:11,542 --> 00:40:14,471
+And then laugh because the tapestry
+fell over its head, you know?
+
+839
+00:40:14,979 --> 00:40:17,759
+And that you're bouncing back and forth
+between those elements.
+
+840
+00:40:18,249 --> 00:40:19,948
+And to also make the scene fun,
+
+841
+00:40:20,285 --> 00:40:22,335
+you can have somebody
+transform into a bear and freak out,
+
+842
+00:40:22,720 --> 00:40:24,149
+but it's not going to
+have that entertainment
+
+843
+00:40:24,455 --> 00:40:25,625
+or the fun that we...
+
+844
+00:40:25,890 --> 00:40:27,440
+It was really difficult
+to find it in that scene.
+
+845
+00:40:27,759 --> 00:40:29,159
+But once we found it,
+it really played well.
+
+846
+00:40:29,460 --> 00:40:30,860
+Yeah, I mean, getting it in storyboards
+
+847
+00:40:31,162 --> 00:40:33,912
+and basically composing this
+and doing the shots
+
+848
+00:40:34,399 --> 00:40:36,679
+and finding it,
+there's that entertainment value,
+
+849
+00:40:37,101 --> 00:40:39,121
+but it's not until
+you actually get into the animation
+
+850
+00:40:39,504 --> 00:40:42,524
+where the subtlety of the acting
+really transforms the scene
+
+851
+00:40:43,041 --> 00:40:46,201
+and gives you those subtleties
+that you need in character.
+
+852
+00:40:48,446 --> 00:40:49,556
+And Merida is just annoyed
+
+853
+00:40:49,814 --> 00:40:52,714
+because this thing didn't go at all
+the way she was expecting it to.
+
+854
+00:40:53,217 --> 00:40:57,287
+And there's no way she's going to
+accept any responsibility at this point.
+
+855
+00:40:57,956 --> 00:40:59,006
+She's just annoyed.
+
+856
+00:40:59,257 --> 00:41:00,747
+She feels like
+she was ripped off by the Witch.
+
+857
+00:41:01,059 --> 00:41:03,609
+It's still not her fault,
+in true teenager fashion.
+
+858
+00:41:04,062 --> 00:41:06,812
+It's, "Il didn't do this to you,
+the Witch obviously did this to you."
+
+859
+00:41:07,298 --> 00:41:09,988
+We actually played it in certain versions
+for a long time
+
+860
+00:41:10,468 --> 00:41:13,078
+where Merida didn't know
+if this was her mom at all
+
+861
+00:41:13,538 --> 00:41:15,758
+or this fierce, threatening bear.
+
+862
+00:41:16,174 --> 00:41:19,834
+And we ultimately decided that
+the earlier you can perceive
+
+863
+00:41:20,445 --> 00:41:23,875
+that Mom's personality is
+inside the bear, the better off we are.
+
+864
+00:41:24,449 --> 00:41:26,729
+Yeah, you could just
+get right to the dilemma of,
+
+865
+00:41:27,151 --> 00:41:28,411
+"Oh, my gosh, my mom's a bear.
+
+866
+00:41:28,686 --> 00:41:31,846
+"How do I get her out of this castle
+filled with bear-hating men
+
+867
+00:41:32,390 --> 00:41:33,620
+"that hunt bears and kill bears?"
+
+868
+00:41:33,891 --> 00:41:36,881
+And then again, pushing that idea that
+Mom doesn't care that she's a bear.
+
+869
+00:41:37,395 --> 00:41:39,565
+She's going to go out and
+she's going to talk to Fergus about this,
+
+870
+00:41:39,964 --> 00:41:41,574
+or go find that Witch.
+
+871
+00:41:41,899 --> 00:41:43,919
+And so we have this dilemma of
+
+872
+00:41:44,302 --> 00:41:47,812
+there's a bear in the castle
+and Fergus is already onto it.
+
+873
+00:41:49,040 --> 00:41:51,180
+Which gives us
+this just great entertainment value of
+
+874
+00:41:51,576 --> 00:41:53,276
+how do you get this huge thing
+out of the castle?
+
+875
+00:41:53,611 --> 00:41:54,810
+Immediately, they have
+the worst thing on their tail,
+
+876
+00:41:55,913 --> 00:41:57,583
+the pressure and the stakes go right up.
+
+877
+00:41:57,915 --> 00:42:00,815
+Right up. And when we figured this out
+we go, "That's a win.
+
+878
+00:42:01,319 --> 00:42:03,929
+"That's entertainment right there,”
+and we could push this moment.
+
+879
+00:42:04,389 --> 00:42:07,489
+And the other physical devices we used
+to illustrate Mom being in there,
+
+880
+00:42:08,026 --> 00:42:09,076
+she puts her crown on.
+
+881
+00:42:09,327 --> 00:42:11,667
+In her mind,
+she's just the same as she was before.
+
+882
+00:42:12,096 --> 00:42:15,226
+She puts her crown on and she pulls
+curtains up around her as a dress,
+
+883
+00:42:15,767 --> 00:42:16,198
+because it's not proper
+to go out undressed.
+
+884
+00:42:16,200 --> 00:42:17,689
+because it's not proper
+to go out undressed.
+
+885
+00:42:18,002 --> 00:42:19,991
+-And she stays queenly all through this.
+-Totally.
+
+886
+00:42:20,371 --> 00:42:22,681
+The way that she walks and behaves
+and everything.
+
+887
+00:42:23,107 --> 00:42:24,687
+But she's in this gigantic body
+
+888
+00:42:25,009 --> 00:42:28,199
+so she's constantly
+not used to knocking things over.
+
+889
+00:42:28,746 --> 00:42:32,616
+And we see, visually, that
+she doesn't fit in this world anymore.
+
+890
+00:42:33,251 --> 00:42:35,971
+Again, keeping that tension up
+with the little sound
+
+891
+00:42:36,454 --> 00:42:38,064
+and Fergus is hunting them.
+
+892
+00:42:38,389 --> 00:42:42,399
+Photographing this 5'4" redheaded girl
+
+893
+00:42:43,061 --> 00:42:45,811
+and this nine-foot-tall bear
+was a pain in the butt.
+
+894
+00:42:46,297 --> 00:42:48,957
+The lenses that we used,
+the camera angles that we used.
+
+895
+00:42:49,434 --> 00:42:52,124
+We'd always have to be lower or higher
+to get 'em both in frame.
+
+896
+00:42:52,603 --> 00:42:54,123
+And I like to keep them both in frame
+
+897
+00:42:54,439 --> 00:42:56,308
+because we had
+that sense of environment
+
+898
+00:42:56,674 --> 00:42:57,754
+that they're there together,
+
+899
+00:42:58,009 --> 00:43:00,939
+instead of just using singles,
+which don't necessarily
+
+900
+00:43:01,446 --> 00:43:04,196
+give you the value
+of the relationship of the characters.
+
+901
+00:43:04,682 --> 00:43:06,412
+You'd have to rely on eye line.
+
+902
+00:43:06,751 --> 00:43:09,881
+But to have them both in the shot,
+sharing the shot together,
+
+903
+00:43:10,421 --> 00:43:12,031
+either in a two-shot or in overs,
+
+904
+00:43:12,356 --> 00:43:14,576
+was just really difficult to keep going
+
+905
+00:43:14,992 --> 00:43:17,042
+because of
+the size change of Mom-bear.
+
+906
+00:43:17,428 --> 00:43:20,268
+And whenever you don't see the floor,
+we're sinking Mom into the floor.
+
+907
+00:43:20,765 --> 00:43:21,815
+And we're cheating a lot.
+
+908
+00:43:22,066 --> 00:43:24,236
+And the 2.39 aspect ratio
+exacerbated it, too.
+
+909
+00:43:24,635 --> 00:43:25,625
+It doesn't help anything.
+
+910
+00:43:25,870 --> 00:43:27,540
+I mean, it is the screen ratio of the gods.
+
+911
+00:43:28,573 --> 00:43:30,743
+But it doesn't help when things are tall.
+
+912
+00:43:31,976 --> 00:43:32,996
+We had a whole section at one point
+
+913
+00:43:33,244 --> 00:43:36,494
+where they go outside the castle
+and then they had to make it to the wall.
+
+914
+00:43:37,048 --> 00:43:38,948
+And so we had
+a couple of guards on the wall
+
+915
+00:43:39,317 --> 00:43:40,837
+and they have to distract one...
+
+916
+00:43:41,152 --> 00:43:42,462
+It just got too much.
+
+917
+00:43:42,753 --> 00:43:44,743
+And the sequence suffered from,
+when we were building it,
+
+918
+00:43:45,123 --> 00:43:47,463
+a lot of stop and starts,
+stop and starts, stop and starts.
+
+919
+00:43:47,892 --> 00:43:50,111
+And those kind of moments
+where you would run into an obstacle
+
+920
+00:43:50,528 --> 00:43:54,187
+that you'd have to stop, distract them
+or figure out a way to get around them.
+
+921
+00:43:54,799 --> 00:43:56,379
+Then start up again
+to find another obstacle,
+
+922
+00:43:56,701 --> 00:43:59,131
+it was just slowing down
+the pacing of the sequence.
+
+923
+00:43:59,570 --> 00:44:02,640
+So we had to trim it all down,
+keep it in the castle,
+
+924
+00:44:03,174 --> 00:44:05,694
+because that was a great visual
+of inside to outside,
+
+925
+00:44:06,144 --> 00:44:09,044
+it's just a clearer read
+of they've gotten out.
+
+926
+00:44:09,547 --> 00:44:11,127
+Once they get out,
+then I can cross this off
+
+927
+00:44:11,449 --> 00:44:11,647
+and they could be
+anywhere in Scotland.
+
+928
+00:44:11,649 --> 00:44:13,459
+and they could be
+anywhere in Scotland.
+
+929
+00:44:13,818 --> 00:44:15,958
+So, that part of the story
+became more action oriented
+
+930
+00:44:16,354 --> 00:44:17,964
+and less of the time we needed
+
+931
+00:44:18,289 --> 00:44:20,479
+for them to engage with each other
+as characters.
+
+932
+00:44:20,892 --> 00:44:23,932
+We wanted to raise the stakes and
+have them in the castle to be chased.
+
+933
+00:44:24,462 --> 00:44:25,772
+And so we came up with this idea
+
+934
+00:44:26,063 --> 00:44:29,373
+that she goes and she gets help
+from her triplet brothers
+
+935
+00:44:29,934 --> 00:44:33,744
+to distract King Fergus and the lords
+so that they can get out.
+
+936
+00:44:34,372 --> 00:44:35,542
+We came up with this idea that
+
+937
+00:44:35,806 --> 00:44:38,526
+they're chasing this ghost shadow
+through the castle.
+
+938
+00:44:39,010 --> 00:44:41,410
+And it was originally a little puppet,
+a little wooden puppet.
+
+939
+00:44:41,846 --> 00:44:45,656
+And then at some point it got changed
+into a barbecued chicken on a stick.
+
+940
+00:44:46,284 --> 00:44:50,094
+Yeah, we thought that the puppet,
+while it worked and while it was logical,
+
+941
+00:44:50,721 --> 00:44:52,591
+there was just something
+way more comedic
+
+942
+00:44:52,957 --> 00:44:55,507
+about putting
+a chicken on the end of a stick.
+
+943
+00:44:55,960 --> 00:44:57,010
+Was it a wooden puppet?
+
+944
+00:44:57,261 --> 00:44:58,631
+It was a wooden puppet.
+It was a wood puppet.
+
+945
+00:44:58,930 --> 00:44:59,950
+It looked like a quick carving,
+
+946
+00:45:00,198 --> 00:45:02,008
+like something
+that they can do really fast.
+
+947
+00:45:02,366 --> 00:45:05,466
+And I don't know if it was
+in a review with John or somebody
+
+948
+00:45:06,003 --> 00:45:07,613
+they said it was just too...
+
+949
+00:45:07,939 --> 00:45:08,808
+Like they thought about it,
+
+950
+00:45:09,040 --> 00:45:10,880
+and it had to be
+even a quicker decision
+
+951
+00:45:11,242 --> 00:45:12,472
+like, "What do we use?
+What do we use?"
+
+952
+00:45:12,743 --> 00:45:14,053
+You know, out of your resources.
+
+953
+00:45:14,345 --> 00:45:15,805
+It's like, "Grab that chicken."
+
+954
+00:45:16,113 --> 00:45:18,832
+And we all laughed
+at the impossibility of it.
+
+955
+00:45:19,317 --> 00:45:20,187
+It works.
+
+956
+00:45:20,418 --> 00:45:21,678
+But this is animation for crying out loud.
+
+957
+00:45:21,953 --> 00:45:22,973
+It totally works.
+
+958
+00:45:23,221 --> 00:45:25,591
+And it does its job.
+You have this great scene.
+
+959
+00:45:26,023 --> 00:45:30,823
+And they had built this whole castle set
+with all these ins and outs,
+
+960
+00:45:31,596 --> 00:45:35,346
+but it's such a great, great set
+inside this castle,
+
+961
+00:45:35,967 --> 00:45:39,977
+l wanted to exploit that even more and
+have these shots inside and outside.
+
+962
+00:45:40,638 --> 00:45:42,218
+We used to have
+Dad go out on the road
+
+963
+00:45:42,540 --> 00:45:44,090
+hunting Mom as a bear
+
+964
+00:45:44,408 --> 00:45:46,808
+and putting the pressure
+on Merida and Mom.
+
+965
+00:45:47,245 --> 00:45:48,505
+And what we found is that
+
+966
+00:45:48,779 --> 00:45:50,529
+it made it more difficult
+for Merida and Mom
+
+967
+00:45:50,881 --> 00:45:52,661
+to have character moments together
+
+968
+00:45:53,017 --> 00:45:55,037
+if there was always
+heat on them from behind.
+
+969
+00:45:55,419 --> 00:45:56,819
+So, this gave us a comedic way
+
+970
+00:45:57,121 --> 00:45:59,731
+to let Dad be
+the single-minded bear hunter guy.
+
+971
+00:46:00,191 --> 00:46:03,091
+That's Victor Navone's animation
+of the chicken on his head.
+
+972
+00:46:03,594 --> 00:46:05,904
+He came up with a dozen different ways
+
+973
+00:46:06,330 --> 00:46:11,310
+of this guy coming down the chimney
+into the oven there to scare Maudie.
+
+974
+00:46:12,103 --> 00:46:13,093
+And one of them was
+
+975
+00:46:13,337 --> 00:46:14,537
+he came down
+with the chicken on his head.
+
+976
+00:46:14,805 --> 00:46:17,055
+And I'm all, "Bingo, that's the one."
+
+977
+00:46:17,975 --> 00:46:19,995
+This is also Victor with the snot.
+
+978
+00:46:20,378 --> 00:46:22,308
+There were so many ways that,
+
+979
+00:46:22,680 --> 00:46:25,200
+after they came out of their tussle,
+he had about six different ideas
+
+980
+00:46:25,650 --> 00:46:27,320
+and he's all, "I don't know
+if you're going to like this one."
+
+981
+00:46:27,652 --> 00:46:29,872
+And when he showed it to us,
+it was the booger coming out.
+
+982
+00:46:30,288 --> 00:46:31,688
+l said, "Done."
+
+983
+00:46:31,989 --> 00:46:34,299
+Everybody who has a toddler
+sees that six times a day.
+
+984
+00:46:34,725 --> 00:46:36,835
+Yeah, right, that's right. That's right.
+
+985
+00:46:37,228 --> 00:46:38,158
+And this is setting up...
+
+986
+00:46:38,396 --> 00:46:40,386
+When they come over and they see
+the cake, "Anything that you want."
+
+987
+00:46:40,765 --> 00:46:44,134
+We had to, 'cause we're
+transforming them into bears later,
+
+988
+00:46:44,702 --> 00:46:46,970
+we had to leave 'em off
+with finding that spell cake
+
+989
+00:46:46,971 --> 00:46:47,381
+we had to leave 'em off
+with finding that spell cake
+
+990
+00:46:47,538 --> 00:46:49,348
+where Merida had left it
+from the previous scene.
+
+991
+00:46:49,707 --> 00:46:51,487
+And it'll be a long time
+till you see them as bears,
+
+992
+00:46:51,842 --> 00:46:53,362
+so we wanted to make it very clear that
+
+993
+00:46:53,678 --> 00:46:56,837
+you knew what was going to happen
+when they ate that cake.
+
+994
+00:46:58,916 --> 00:47:03,166
+Our first shot of nudity, I think,
+in all of animation right there.
+
+995
+00:47:03,854 --> 00:47:05,404
+-For Pixar.
+-For Pixar, nudity.
+
+996
+00:47:06,857 --> 00:47:10,397
+I'd have to have
+animation historians look into that.
+
+997
+00:47:10,995 --> 00:47:12,045
+Right.
+
+998
+00:47:12,863 --> 00:47:16,462
+Actually, I think, also one of Kelly's
+first line reads was on this scene.
+
+999
+00:47:17,068 --> 00:47:18,058
+We did a test on this, right?
+
+1000
+00:47:18,302 --> 00:47:20,642
+We did a test on this
+which was amazing.
+
+1001
+00:47:21,906 --> 00:47:23,636
+She really knocked it out of the park.
+
+1002
+00:47:23,974 --> 00:47:28,104
+In this travel sequence with
+Mom and Merida on the road together,
+
+1003
+00:47:29,547 --> 00:47:33,177
+we were always trying to balance
+how upset can they be with each other.
+
+1004
+00:47:33,784 --> 00:47:35,774
+Because you know
+there's contention there,
+
+1005
+00:47:36,153 --> 00:47:37,703
+but you want it to be entertaining.
+
+1006
+00:47:38,022 --> 00:47:40,741
+You don't want it to go on so long
+that you can't stand to be around them,
+
+1007
+00:47:41,225 --> 00:47:43,505
+but you want to feel like
+they're at odds with each other.
+
+1008
+00:47:43,928 --> 00:47:46,178
+Because Merida just did
+a horrific thing to her mom.
+
+1009
+00:47:46,597 --> 00:47:49,147
+And we wanted to
+hold back Merida's self-realization
+
+1010
+00:47:49,600 --> 00:47:51,270
+-that she had screwed up.
+-Exactly.
+
+1011
+00:47:51,602 --> 00:47:54,912
+Yeah, so she's being stubborn
+and she wants to do things her way,
+
+1012
+00:47:55,473 --> 00:47:57,692
+and Mom is asserting herself her way.
+
+1013
+00:47:58,109 --> 00:47:59,538
+And they're just not getting along.
+
+1014
+00:47:59,844 --> 00:48:02,474
+But we didn't want to see them
+arguing the whole time either.
+
+1015
+00:48:02,947 --> 00:48:06,227
+Right. We had the griping happen
+during the walk
+
+1016
+00:48:06,784 --> 00:48:07,714
+and it wasn't working.
+
+1017
+00:48:07,952 --> 00:48:09,822
+It seemed like
+she was being really mean.
+
+1018
+00:48:10,187 --> 00:48:12,297
+So then we moved it
+and got a different read on it,
+
+1019
+00:48:12,690 --> 00:48:14,940
+like it was under her breath
+before they started walking,
+
+1020
+00:48:15,359 --> 00:48:17,029
+let them kind of walk in this silence.
+
+1021
+00:48:17,361 --> 00:48:19,731
+And all of a sudden it totally worked.
+
+1022
+00:48:22,566 --> 00:48:23,875
+In a very old version
+of this part of the movie,
+
+1023
+00:48:24,168 --> 00:48:26,278
+we actually had
+Merida go back to the castle
+
+1024
+00:48:26,670 --> 00:48:28,630
+and leave Mom in the Witch's cottage.
+
+1025
+00:48:29,006 --> 00:48:31,225
+And Mom was in there getting hungry,
+trying to make tea
+
+1026
+00:48:31,642 --> 00:48:32,812
+and she burns the place down
+
+1027
+00:48:33,077 --> 00:48:35,627
+and comes racing through the forest
+on fire,
+
+1028
+00:48:36,080 --> 00:48:37,130
+like, her rear end is caught on fire.
+
+1029
+00:48:37,381 --> 00:48:38,551
+The demon hell-bear, yeah.
+
+1030
+00:48:38,816 --> 00:48:42,216
+Yeah, and the villagers see this bear
+with a fiery halo around it
+
+1031
+00:48:42,787 --> 00:48:46,656
+and send home the news that
+Mor'du is rampaging through the forest.
+
+1032
+00:48:47,291 --> 00:48:49,481
+Which sent Dad out on the hunt.
+
+1033
+00:48:49,894 --> 00:48:51,734
+This had gone through
+a few iterations, too,
+
+1034
+00:48:52,096 --> 00:48:54,056
+that the cottage was dilapidated,
+it was old.
+
+1035
+00:48:54,432 --> 00:48:55,511
+Right. It was destroyed.
+
+1036
+00:48:55,766 --> 00:48:58,576
+We had weird magic happening
+where hundreds of years have passed.
+
+1037
+00:48:59,069 --> 00:49:03,349
+But we had this idea that they return
+and there's a note on the door.
+
+1038
+00:49:04,041 --> 00:49:05,651
+Well, a note on the door
+is not good enough.
+
+1039
+00:49:05,976 --> 00:49:07,266
+It's not dynamic, a note on the door.
+
+1040
+00:49:07,545 --> 00:49:09,975
+Or that the Witch was there
+and packing up and leaving,
+
+1041
+00:49:10,414 --> 00:49:11,404
+and she could tell herself.
+
+1042
+00:49:11,649 --> 00:49:12,609
+But then that's not dynamic.
+
+1043
+00:49:12,850 --> 00:49:15,370
+And we thought,
+"Why doesn't she use magic?"
+
+1044
+00:49:15,820 --> 00:49:18,890
+And this idea of this magical
+answering machine came up.
+
+1045
+00:49:20,858 --> 00:49:23,518
+One of my favorite lines in here is...
+Steve wrote this sequence.
+
+1046
+00:49:23,994 --> 00:49:27,304
+We were really balancing how modern
+the Witch needed to sound,
+
+1047
+00:49:27,865 --> 00:49:28,794
+as if this was her shop
+
+1048
+00:49:29,033 --> 00:49:31,083
+and she's leaving this message
+of the things that she can do.
+
+1049
+00:49:31,469 --> 00:49:33,519
+"We had wedding cake toppers,"
+
+1050
+00:49:33,904 --> 00:49:36,654
+and "for messages in Gaelic vial two,"
+
+1051
+00:49:37,141 --> 00:49:39,509
+and "to speak to a live homunculus"
+is probably my favorite,
+
+1052
+00:49:39,510 --> 00:49:40,240
+and "to speak to a live homunculus"
+is probably my favorite,
+
+1053
+00:49:40,444 --> 00:49:42,964
+one of my favorite lines
+in the whole movie.
+
+1054
+00:49:44,648 --> 00:49:46,378
+And then John Lasseter
+had this great moment
+
+1055
+00:49:46,717 --> 00:49:50,497
+to make this really impactful
+of the spell,
+
+1056
+00:49:51,121 --> 00:49:54,581
+the actual wording of the spell
+is that, clunk, we go red
+
+1057
+00:49:55,159 --> 00:49:57,969
+and we put echo on it and all this stuff
+and made it kind of sinister.
+
+1058
+00:49:58,462 --> 00:50:00,712
+And she was really
+acting the part of the Witch,
+
+1059
+00:50:01,131 --> 00:50:04,120
+which is the only time
+she's really traditionally witchy.
+
+1060
+00:50:04,635 --> 00:50:06,335
+Well, there were years
+
+1061
+00:50:06,670 --> 00:50:09,250
+that went into making
+those specific words of that spell.
+
+1062
+00:50:09,707 --> 00:50:11,577
+And we used to
+include the lords' relics.
+
+1063
+00:50:11,942 --> 00:50:14,252
+The lords' relics,
+that she had to gather them all.
+
+1064
+00:50:14,678 --> 00:50:16,078
+-Caldrons, swords...
+-Stones...
+
+1065
+00:50:16,380 --> 00:50:19,510
+Right, or we needed their tribal artifacts
+to make the spell go away.
+
+1066
+00:50:20,050 --> 00:50:21,070
+Yeah, that was a red herring
+
+1067
+00:50:21,318 --> 00:50:22,868
+because it was talking about the relics
+
+1068
+00:50:23,187 --> 00:50:24,676
+which were physical objects
+in the movie.
+
+1069
+00:50:24,989 --> 00:50:26,329
+But when later Merida realizes
+
+1070
+00:50:26,624 --> 00:50:28,933
+the relics had been
+sewn into the corners of the tapestry.
+
+1071
+00:50:29,360 --> 00:50:31,260
+Which I think still exists in the tapestry.
+
+1072
+00:50:31,629 --> 00:50:33,499
+Yeah. They're in the tapestry
+but they're just an element.
+
+1073
+00:50:33,864 --> 00:50:36,674
+And then we had later used
+that they were the physical lords.
+
+1074
+00:50:37,167 --> 00:50:40,007
+It was the kingdom,
+this family had to see this apology.
+
+1075
+00:50:40,504 --> 00:50:42,723
+But then we just left that element out
+
+1076
+00:50:43,140 --> 00:50:46,569
+until we found the actual words
+that really worked.
+
+1077
+00:50:47,144 --> 00:50:48,223
+And it's a lot of trial and error.
+
+1078
+00:50:48,479 --> 00:50:52,379
+Story, these moments,
+everything is trial and error.
+
+1079
+00:50:53,017 --> 00:50:54,977
+Right? Reworking it and watching it.
+
+1080
+00:50:55,352 --> 00:50:57,252
+And you only find that organically,
+you know?
+
+1081
+00:50:57,621 --> 00:50:59,521
+That's what makes it alchemy.
+
+1082
+00:51:01,759 --> 00:51:02,659
+So the cottage has blown up.
+
+1083
+00:51:02,893 --> 00:51:03,743
+The message machine blows up.
+
+1084
+00:51:04,662 --> 00:51:07,761
+They overload it accidentally
+with the magical spells.
+
+1085
+00:51:08,299 --> 00:51:11,049
+In kind of our homage
+to Mission: Impossible.
+
+1086
+00:51:11,535 --> 00:51:13,875
+So, any chance
+of getting any kind of concoction
+
+1087
+00:51:14,305 --> 00:51:16,234
+that's going to change Mom back
+.
+IS now gone.
+
+1088
+00:51:16,607 --> 00:51:18,747
+And we have their low moment.
+
+1089
+00:51:19,143 --> 00:51:21,253
+We had this whole other scene
+where Mom freaks out
+
+1090
+00:51:21,645 --> 00:51:25,335
+and she gets caught and choked
+by ropes and stuff and lashings
+
+1091
+00:51:25,950 --> 00:51:27,730
+and then Merida calms her down.
+
+1092
+00:51:28,085 --> 00:51:30,575
+But it was just too much,
+that they can both realize
+
+1093
+00:51:31,021 --> 00:51:33,331
+there's something about getting
+the rug pulled out from under you
+
+1094
+00:51:33,757 --> 00:51:35,627
+that was more meaningful.
+
+1095
+00:51:35,993 --> 00:51:37,482
+It slowed everything down
+
+1096
+00:51:37,795 --> 00:51:41,305
+and brought
+the weight of their dilemma to light.
+
+1097
+00:51:41,899 --> 00:51:46,029
+And then Mom is mad at her daughter,
+but can't say anything,
+
+1098
+00:51:46,704 --> 00:51:49,074
+and she gives her that one look
+and rolls over.
+
+1099
+00:51:49,506 --> 00:51:52,256
+And now Merida...
+It's really hitting Merida,
+
+1100
+00:51:52,743 --> 00:51:55,113
+her guilt of what she's selfishly done.
+
+1101
+00:51:57,748 --> 00:51:59,678
+This actually came
+before the first scene.
+
+1102
+00:52:00,050 --> 00:52:01,890
+Yes, the flashback.
+
+1103
+00:52:02,252 --> 00:52:04,862
+We had a young Merida here
+that we knew we needed to get.
+
+1104
+00:52:05,322 --> 00:52:07,432
+But we were debating
+whether we were going to have,
+
+1105
+00:52:07,825 --> 00:52:10,665
+because of the difficulties
+of creating a young Merida.
+
+1106
+00:52:11,161 --> 00:52:13,271
+So, as soon as that other scene,
+the opening scene,
+
+1107
+00:52:13,664 --> 00:52:15,154
+we said, "We definitely need
+a young Merida."
+
+1108
+00:52:15,466 --> 00:52:17,276
+Then I said, "Then this is going in."
+
+1109
+00:52:17,635 --> 00:52:21,445
+Patrick Doyle wrote the beautiful lullaby
+that was translated into Gaelic and...
+
+1110
+00:52:22,072 --> 00:52:25,202
+Sung by Emma Thompson and Peigi.
+Yeah, it was beautiful.
+
+1111
+00:52:25,743 --> 00:52:27,613
+We had had a temp song in there
+that was Gaelic
+
+1112
+00:52:27,978 --> 00:52:30,288
+that was about drowning at sea
+or something, wasn't it?
+
+1113
+00:52:30,714 --> 00:52:32,324
+But since we didn't understand
+the words, it sounded beautiful to us.
+
+1114
+00:52:32,650 --> 00:52:33,500
+It did, it was totally beautiful.
+
+1115
+00:52:34,184 --> 00:52:36,734
+We couldn't hear
+the drowning story within it.
+
+1116
+00:52:39,123 --> 00:52:40,733
+The run up into this area
+
+1117
+00:52:41,058 --> 00:52:43,518
+is like a power struggle
+between Merida and Mom.
+
+1118
+00:52:43,961 --> 00:52:47,651
+And Merida has the upper hand
+because she's still a human being,
+
+1119
+00:52:48,265 --> 00:52:51,305
+but Mom still tries
+to maintain her authority.
+
+1120
+00:52:51,835 --> 00:52:54,415
+And then, of course,
+Merida, knowing the woods,
+
+1121
+00:52:54,872 --> 00:52:58,002
+knows that everything Mom has done,
+
+1122
+00:52:58,542 --> 00:53:01,152
+while good-natured and well-meaning,
+.
+IS wrong.
+
+1123
+00:53:01,612 --> 00:53:03,572
+There's worms in the water,
+
+1124
+00:53:03,947 --> 00:53:05,117
+she picked poisoned berries.
+
+1125
+00:53:05,382 --> 00:53:07,312
+So, they're not going to survive.
+
+1126
+00:53:07,685 --> 00:53:08,585
+She's out of her element there.
+
+1127
+00:53:08,819 --> 00:53:10,308
+She's out of her element big time.
+
+1128
+00:53:10,621 --> 00:53:11,731
+And we're in Merida's world.
+
+1129
+00:53:11,989 --> 00:53:15,359
+And this is where the transition
+happens for us in the story
+
+1130
+00:53:15,926 --> 00:53:18,176
+of Merida becomes the parent now
+
+1131
+00:53:18,595 --> 00:53:19,995
+over the person that needs help,
+
+1132
+00:53:20,297 --> 00:53:22,197
+which is her mother,
+who's now in the child's role.
+
+1133
+00:53:22,566 --> 00:53:25,868
+It turns out a nightshade berry
+will not kill you, but it'll make you dizzy.
+
+1134
+00:53:25,869 --> 00:53:25,919
+It turns out a nightshade berry
+will not kill you, but it'll make you dizzy.
+
+1135
+00:53:26,036 --> 00:53:27,876
+-So...
+-Just dizzy, not sick?
+
+1136
+00:53:28,238 --> 00:53:28,538
+Sick and dizzy. But...
+
+1137
+00:53:28,539 --> 00:53:29,389
+Sick and dizzy. But...
+
+1138
+00:53:29,606 --> 00:53:31,716
+We said poisonous
+and that is poisonous.
+
+1139
+00:53:32,109 --> 00:53:33,719
+‘Cause they're actually
+called deadly nightshade, right?
+
+1140
+00:53:34,044 --> 00:53:36,674
+Yeah. I guess if you have enough
+of something that makes you dizzy,
+
+1141
+00:53:37,147 --> 00:53:38,957
+-you're going to die.
+-Right, sure.
+
+1142
+00:53:39,316 --> 00:53:40,685
+But poisonous,
+we're right on the money.
+
+1143
+00:53:40,984 --> 00:53:42,714
+Mom would have to
+eat a bucket of them to have any effect.
+
+1144
+00:53:43,053 --> 00:53:45,923
+Well, she's a bear,
+she probably could eat a bucket.
+
+1145
+00:53:48,058 --> 00:53:49,608
+To talk about the production design
+a little bit,
+
+1146
+00:53:49,927 --> 00:53:53,207
+we go from this very cold, dim,
+
+1147
+00:53:53,764 --> 00:53:57,304
+rain-filled scene of sorrow and misery to
+
+1148
+00:53:57,901 --> 00:53:59,711
+they wake up
+still in this kind of blue mood
+
+1149
+00:54:00,070 --> 00:54:00,920
+but it's dawn.
+
+1150
+00:54:01,672 --> 00:54:04,512
+But now,
+the light is coming into their lives.
+
+1151
+00:54:05,008 --> 00:54:06,848
+The light is
+coming into their relationship.
+
+1152
+00:54:07,211 --> 00:54:10,051
+The dynamics of their relationship
+is changing.
+
+1153
+00:54:10,547 --> 00:54:12,917
+It's the first step of them
+actually working together.
+
+1154
+00:54:13,350 --> 00:54:16,890
+Yeah. But all of what Mom said before
+is now coming back to haunt her.
+
+1155
+00:54:17,488 --> 00:54:20,357
+"Oh, if l never had weapons training
+we'd be starving to death."
+
+1156
+00:54:20,858 --> 00:54:23,468
+"Here is food that you need
+but you're not going to try it," you know?
+
+1157
+00:54:23,927 --> 00:54:26,147
+And so there's a little push back.
+
+1158
+00:54:26,563 --> 00:54:28,263
+So we go into the fishing sequence,
+
+1159
+00:54:28,599 --> 00:54:33,049
+which had to be locked down story-wise
+fairly early on
+
+1160
+00:54:33,771 --> 00:54:35,701
+when we came up
+with the idea for this sequence
+
+1161
+00:54:36,073 --> 00:54:38,473
+because of the incredibly long time
+it would take to do the water effects.
+
+1162
+00:54:38,475 --> 00:54:41,225
+because of the incredibly long time
+it would take to do the water effects.
+
+1163
+00:54:41,712 --> 00:54:44,872
+So, David MacCarthy,
+D-Mac and his team
+
+1164
+00:54:45,949 --> 00:54:47,969
+needed to have this sequence
+locked down,
+
+1165
+00:54:48,352 --> 00:54:51,192
+which, in animation,
+doesn't always necessarily happen.
+
+1166
+00:54:51,688 --> 00:54:54,788
+So, we got it down to its nitty-gritty
+and locked it down.
+
+1167
+00:54:55,325 --> 00:54:56,495
+And had to get the song in there,
+
+1168
+00:54:56,760 --> 00:54:58,100
+so we had the length of all the shots
+
+1169
+00:54:58,395 --> 00:55:01,025
+and they started working
+on the effects of the sequence
+
+1170
+00:55:01,498 --> 00:55:03,688
+a year before the film was completed.
+
+1171
+00:55:04,101 --> 00:55:06,351
+It takes that long to do the water effects.
+
+1172
+00:55:06,770 --> 00:55:08,580
+And it turned out,
+it's breathtaking, that river.
+
+1173
+00:55:08,939 --> 00:55:10,109
+They did an amazing job.
+
+1174
+00:55:10,374 --> 00:55:13,884
+There's so many elements
+involved in it, just the water flow,
+
+1175
+00:55:14,478 --> 00:55:16,028
+then there's the foaminess of it,
+
+1176
+00:55:16,346 --> 00:55:17,806
+and the interaction with it.
+
+1177
+00:55:18,115 --> 00:55:21,075
+The splashes, the aeration in the water.
+
+1178
+00:55:22,619 --> 00:55:24,199
+Lighting did a fantastic job lighting it
+
+1179
+00:55:24,521 --> 00:55:27,711
+so you get that gold
+and those blue reflections in there.
+
+1180
+00:55:28,258 --> 00:55:30,687
+It's a moving sculpture, is what it is,
+and it's gorgeous.
+
+1181
+00:55:31,128 --> 00:55:33,618
+And it's so authentic looking
+you just accept it.
+
+1182
+00:55:34,064 --> 00:55:35,794
+You don't actually appreciate it enough
+
+1183
+00:55:36,133 --> 00:55:38,093
+unless somebody tells you to look at it.
+
+1184
+00:55:38,468 --> 00:55:39,988
+Because it feels so natural.
+
+1185
+00:55:40,304 --> 00:55:44,174
+And here comes the song to explain
+this new dynamic of their relationship
+
+1186
+00:55:44,808 --> 00:55:46,538
+also written by Alex Mandel.
+
+1187
+00:55:46,877 --> 00:55:48,427
+He and Steve worked on it quite a bit.
+
+1188
+00:55:48,745 --> 00:55:50,935
+And when I heard it for the first time
+Il said, "This is beautiful.
+
+1189
+00:55:51,348 --> 00:55:53,598
+"I'm keeping this one in definitely.”
+
+1190
+00:55:54,017 --> 00:55:56,127
+‘Cause it just
+summed up their relationship
+
+1191
+00:55:56,520 --> 00:55:59,740
+in this very economical
+and emotional way.
+
+1192
+00:56:00,290 --> 00:56:03,070
+I mean, the music just plays into this
+
+1193
+00:56:03,560 --> 00:56:06,220
+where it's not a celebration
+and it's not a victory.
+
+1194
+00:56:06,697 --> 00:56:10,177
+There's something still tentative
+about it, but hopeful.
+
+1195
+00:56:12,603 --> 00:56:16,823
+And the sim, the simulation department,
+to get that wet bear and Merida all wet
+
+1196
+00:56:17,507 --> 00:56:19,087
+and their clothes wet and clingy,
+
+1197
+00:56:19,409 --> 00:56:21,579
+Claudia and her team is just fantastic.
+
+1198
+00:56:21,979 --> 00:56:23,709
+It just all goes together.
+
+1199
+00:56:24,047 --> 00:56:26,357
+‘Cause it's a really memorable,
+important moment,
+
+1200
+00:56:26,783 --> 00:56:29,333
+it's one of the brightest
+sequences in the movie
+
+1201
+00:56:29,786 --> 00:56:31,656
+with this golden light about them
+
+1202
+00:56:32,022 --> 00:56:35,622
+playing and finding each other again
+and seeing each other differently.
+
+1203
+00:56:36,226 --> 00:56:39,326
+So, all these technical aspects
+just go in concert
+
+1204
+00:56:39,863 --> 00:56:41,673
+to make the sequence memorable.
+
+1205
+00:56:42,032 --> 00:56:44,992
+What could make Merida's crazy hair
+even more complicated to do?
+
+1206
+00:56:45,502 --> 00:56:47,432
+"Let's get it wet now."
+
+1207
+00:56:47,804 --> 00:56:48,884
+If you look in the background on this,
+
+1208
+00:56:49,139 --> 00:56:52,449
+we have bugs
+flying around in the sunlight.
+
+1209
+00:56:53,010 --> 00:56:55,230
+All these clouds of bugs
+flying around back there
+
+1210
+00:56:55,646 --> 00:56:57,896
+to make that forest feel alive.
+
+1211
+00:56:58,315 --> 00:57:00,775
+I mean, that's something
+that Ridley Scott did in Legend
+
+1212
+00:57:01,218 --> 00:57:03,707
+when he filmed all of it inside on stages,
+
+1213
+00:57:04,154 --> 00:57:06,844
+that he can really control
+the atmosphere and the debris
+
+1214
+00:57:07,324 --> 00:57:08,724
+that you get for free in the forest.
+
+1215
+00:57:09,026 --> 00:57:11,486
+And we did the same thing. I wanted
+atmosphere throughout this movie,
+
+1216
+00:57:11,929 --> 00:57:15,029
+because it's there in Scotland,
+in the air,
+
+1217
+00:57:15,565 --> 00:57:17,175
+knocking back the backgrounds.
+
+1218
+00:57:17,501 --> 00:57:20,721
+And you see little clingy clouds and
+then there's midges all over the place.
+
+1219
+00:57:21,271 --> 00:57:23,171
+There's bugs all over the place,
+so we needed that,
+
+1220
+00:57:23,540 --> 00:57:25,590
+and it just really helps with the texture.
+
+1221
+00:57:28,312 --> 00:57:30,332
+We used to have a version of the story
+
+1222
+00:57:31,114 --> 00:57:33,224
+where the entire set
+was covered in snow.
+
+1223
+00:57:33,617 --> 00:57:35,517
+Two-thirds of the movie
+took place in a snow cover
+
+1224
+00:57:35,886 --> 00:57:38,696
+which was based
+on the effect of the spell.
+
+1225
+00:57:39,189 --> 00:57:40,999
+Kind of having this global effect.
+
+1226
+00:57:41,358 --> 00:57:43,138
+And what we gained
+by losing that idea is
+
+1227
+00:57:43,493 --> 00:57:46,123
+we just get a beautiful view of Scotland
+
+1228
+00:57:46,596 --> 00:57:49,876
+that we wouldn't have had if we were
+covering up all these great sets.
+
+1229
+00:57:50,434 --> 00:57:51,664
+A lot of work done on the snow
+
+1230
+00:57:51,935 --> 00:57:54,975
+that we decided was not needed
+for the movie to tell the story.
+
+1231
+00:57:55,505 --> 00:57:56,815
+No. It was pretty amazing stuff actually.
+
+1232
+00:57:57,107 --> 00:57:58,747
+The tests on the snow were fantastic.
+
+1233
+00:57:59,076 --> 00:58:00,336
+And we had the opening of the movie
+
+1234
+00:58:00,610 --> 00:58:02,390
+which took place
+with Fergus in the snow.
+
+1235
+00:58:02,746 --> 00:58:05,236
+So we had it, but then we chopped it.
+
+1236
+00:58:05,682 --> 00:58:09,051
+So, there is only one shot that exists
+in the world, that's in the trailer,
+
+1237
+00:58:09,619 --> 00:58:11,669
+is Fergus coming across the snow
+in his armor.
+
+1238
+00:58:12,055 --> 00:58:13,484
+We have the flyover with the snow.
+
+1239
+00:58:13,790 --> 00:58:16,340
+Right, we got the snow
+in the very beginning of the film
+
+1240
+00:58:16,793 --> 00:58:18,103
+in the montage.
+
+1241
+00:58:19,496 --> 00:58:21,546
+We had a whole sequence in here
+that we cut out
+
+1242
+00:58:21,932 --> 00:58:24,741
+of them getting chased by wolves,
+
+1243
+00:58:25,235 --> 00:58:28,305
+which was quite fantastic
+as an action sequence goes.
+
+1244
+00:58:28,839 --> 00:58:31,619
+But ultimately
+does not serve the story well.
+
+1245
+00:58:32,109 --> 00:58:34,479
+And there were lots of sequences
+that we had in the movie
+
+1246
+00:58:34,911 --> 00:58:37,871
+where we thought we needed
+to spend the time with them,
+
+1247
+00:58:38,382 --> 00:58:41,042
+so that they can
+earn their reward at the end.
+
+1248
+00:58:41,518 --> 00:58:44,558
+They could actually have
+a longer journey.
+
+1249
+00:58:45,088 --> 00:58:48,598
+But it's pretty fantastic to see
+just editing it down
+
+1250
+00:58:49,192 --> 00:58:50,272
+what exactly do we need.
+
+1251
+00:58:50,527 --> 00:58:52,047
+We get every moment.
+
+1252
+00:58:52,362 --> 00:58:54,912
+And by the end
+they still earn this journey.
+
+1253
+00:58:57,534 --> 00:58:58,764
+The wisp sound design is amazing.
+
+1254
+00:58:59,036 --> 00:58:59,886
+To get this kind of whispery effect
+
+1255
+00:59:00,937 --> 00:59:03,897
+that almost sounds like
+unintelligible talking whispers.
+
+1256
+00:59:04,408 --> 00:59:05,278
+But from children.
+
+1257
+00:59:05,509 --> 00:59:08,759
+It had this eerie quality,
+but nice, too, really.
+
+1258
+00:59:09,312 --> 00:59:11,241
+There's nothing creepier
+than children whispering.
+
+1259
+00:59:11,615 --> 00:59:13,895
+-Right.
+-Unless it's clowns whispering.
+
+1260
+00:59:16,186 --> 00:59:18,266
+So, this was a key moment
+when they find the ruins
+
+1261
+00:59:18,655 --> 00:59:21,935
+and the crossed battleaxes,
+the sigil of House Mor'du
+
+1262
+00:59:22,492 --> 00:59:26,032
+that she's seen before
+so that we know it's not just a story.
+
+1263
+00:59:26,630 --> 00:59:27,620
+It's on the ring that the Witch had.
+
+1264
+00:59:27,864 --> 00:59:31,264
+These stories are now
+coming into contact with each other.
+
+1265
+00:59:31,835 --> 00:59:35,345
+And then the Witch is
+one of the hubs of this story.
+
+1266
+00:59:35,939 --> 00:59:37,489
+And that the wisps
+are leading them here
+
+1267
+00:59:37,808 --> 00:59:40,358
+so that Merida can find those answers.
+
+1268
+00:59:40,811 --> 00:59:45,281
+And I wanted it to be a very stark place,
+just devoid of life and color.
+
+1269
+00:59:45,282 --> 00:59:45,922
+And I wanted it to be a very stark place,
+just devoid of life and color.
+
+1270
+00:59:46,116 --> 00:59:47,426
+And that's an actual broch.
+
+1271
+00:59:47,717 --> 00:59:49,467
+That's what they look like in Scotland.
+
+1272
+00:59:49,820 --> 00:59:53,420
+Which was the first castle fortresses
+done in almost prehistoric ages
+
+1273
+00:59:54,024 --> 00:59:57,013
+and they're insane,
+the construction on them is so simple.
+
+1274
+01:00:00,764 --> 01:00:04,274
+What I love about Steve Pilcher's
+art design, especially in here,
+
+1275
+01:00:04,868 --> 01:00:06,618
+is Merida is like a target on screen.
+
+1276
+01:00:06,970 --> 01:00:10,009
+And no matter what setting you're in,
+you spot her right away
+
+1277
+01:00:10,540 --> 01:00:11,970
+‘cause her hair is so striking
+
+1278
+01:00:12,275 --> 01:00:15,585
+and has that kind of unnatural
+cherry red which is... It's great.
+
+1279
+01:00:16,146 --> 01:00:17,816
+You just always know
+where she is on screen.
+
+1280
+01:00:18,148 --> 01:00:19,488
+And she's the only color in the room.
+
+1281
+01:00:19,783 --> 01:00:22,272
+And I love how, in this scene,
+her face goes white,
+
+1282
+01:00:22,719 --> 01:00:25,939
+and her hair, even though it's red,
+it's very pale.
+
+1283
+01:00:27,290 --> 01:00:28,870
+It's like an illustrated book.
+
+1284
+01:00:29,192 --> 01:00:34,412
+Yeah. But seeing this location
+colorless, gray, dead.
+
+1285
+01:00:35,232 --> 01:00:38,332
+Yeah. This is the worst place to be,
+but she's getting all the information.
+
+1286
+01:00:38,869 --> 01:00:40,569
+Exactly. And we're tying it all together.
+
+1287
+01:00:40,904 --> 01:00:43,454
+And that's why the wisps
+ultimately lead her here.
+
+1288
+01:00:43,907 --> 01:00:46,837
+So she can put together
+and solve this mystery.
+
+1289
+01:00:48,278 --> 01:00:52,058
+Her flashback,
+that was my little ode to Porco Rosso.
+
+1290
+01:00:52,682 --> 01:00:54,082
+-Miyazaki film.
+-Yeah.
+
+1291
+01:00:54,384 --> 01:00:57,344
+Porco is a pig and she's looking at him
+and he's a man.
+
+1292
+01:00:57,854 --> 01:00:59,163
+And then she looks at him
+and he's a pig again.
+
+1293
+01:00:59,456 --> 01:01:02,116
+So [kind of did the reverse
+where, in her flashback,
+
+1294
+01:01:02,592 --> 01:01:03,462
+she sees Prince Mor'du,
+
+1295
+01:01:03,693 --> 01:01:05,243
+but then he turns
+and it's the face of Mor'du.
+
+1296
+01:01:05,562 --> 01:01:07,642
+So, we lock home
+they're one and the same
+
+1297
+01:01:08,031 --> 01:01:10,171
+before she figures it out here.
+
+1298
+01:01:10,600 --> 01:01:12,970
+This is one of the great things
+about working at Pixar
+
+1299
+01:01:13,403 --> 01:01:15,982
+is what we're willing to do
+to tell the story.
+
+1300
+01:01:16,439 --> 01:01:19,919
+And Brave is the darkest film
+Pixar has done.
+
+1301
+01:01:20,510 --> 01:01:23,440
+And that we can go into that
+and go into this dark place,
+
+1302
+01:01:23,947 --> 01:01:27,547
+and have this really
+intense, scary moment
+
+1303
+01:01:28,151 --> 01:01:32,750
+and come out of it fine, unscathed,
+where it helps support the story.
+
+1304
+01:01:33,490 --> 01:01:37,740
+It tells the story that this person needs
+to understand these consequences
+
+1305
+01:01:38,428 --> 01:01:41,708
+I think is very important, even
+for young children to understand.
+
+1306
+01:01:42,265 --> 01:01:45,335
+It seems like that's something
+that's in classic folktales and fairytales
+
+1307
+01:01:45,869 --> 01:01:48,889
+is these kind of big ideas
+of life and death and loss
+
+1308
+01:01:49,406 --> 01:01:52,276
+and things that kids and people
+are grappling with.
+
+1309
+01:01:52,776 --> 01:01:55,296
+Yeah, and she's there.
+She goes to her mother for help.
+
+1310
+01:01:55,745 --> 01:01:57,525
+Her mother is not leaving her there
+on her own.
+
+1311
+01:01:57,881 --> 01:02:01,891
+The other important fact of this
+is that when you ask for help, it's there.
+
+1312
+01:02:04,588 --> 01:02:07,048
+And we have our magical transition
+when they ride out into the fog,
+
+1313
+01:02:07,490 --> 01:02:09,040
+and... They're already
+in the standing stones,
+
+1314
+01:02:09,359 --> 01:02:13,399
+they've just done
+25, 30 miles in no time.
+
+1315
+01:02:14,064 --> 01:02:16,614
+And that's the magic of the world,
+that's the portal.
+
+1316
+01:02:17,067 --> 01:02:20,227
+The stones we kind of used
+as this hub, the stone ring.
+
+1317
+01:02:23,273 --> 01:02:25,173
+As in legend, all fairy rings
+or magical rings
+
+1318
+01:02:25,542 --> 01:02:29,052
+were portals to the other worlds
+or even time.
+
+1319
+01:02:29,646 --> 01:02:32,576
+You would have magic toadstools
+that you step into and you fall asleep,
+
+1320
+01:02:33,083 --> 01:02:34,723
+when you wake up you're
+in some strange new world,
+
+1321
+01:02:35,051 --> 01:02:37,451
+or time has passed
+and you had no idea.
+
+1322
+01:02:38,288 --> 01:02:41,098
+But later on for Fergus, since
+he doesn't buy into all this magic,
+
+1323
+01:02:41,591 --> 01:02:45,310
+for him the ring of stones
+is a corral to corner his prey.
+
+1324
+01:02:45,929 --> 01:02:47,659
+Right.
+
+1325
+01:02:48,598 --> 01:02:52,878
+So they have the answer of the tapestry,
+it's back in the castle.
+
+1326
+01:02:53,570 --> 01:02:56,060
+Which, originally in the scene,
+the castle was all...
+
+1327
+01:02:56,640 --> 01:02:58,690
+Everybody was fighting, all the clans
+were fighting all over the castle.
+
+1328
+01:02:59,075 --> 01:02:59,924
+It was a hornet's nest.
+
+1329
+01:03:00,143 --> 01:03:03,983
+But then,
+in a previous incarnation of this,
+
+1330
+01:03:04,614 --> 01:03:05,664
+they try to sneak back in,
+
+1331
+01:03:05,915 --> 01:03:09,395
+they get spotted, they get shot at,
+Mom gets an arrow in the butt,
+
+1332
+01:03:10,387 --> 01:03:12,467
+she turns around
+as Merida tries to pull it out of her,
+
+1333
+01:03:12,856 --> 01:03:14,226
+she slashes Merida's arm.
+
+1334
+01:03:14,524 --> 01:03:15,694
+Well, when she pulls it out, yeah,
+
+1335
+01:03:15,959 --> 01:03:17,359
+-she turns into a bear.
+-She turns into a bear,
+
+1336
+01:03:17,661 --> 01:03:22,141
+and slashes Merida's arm and then
+turns back into her bear-human self,
+
+1337
+01:03:22,866 --> 01:03:23,856
+freaks out and then runs off.
+
+1338
+01:03:24,100 --> 01:03:26,880
+And then we had this whole scene
+where Mom has given up.
+
+1339
+01:03:27,637 --> 01:03:29,687
+So, not only do you have to get
+back into the castle to get the tapestry,
+
+1340
+01:03:30,073 --> 01:03:32,062
+how do you change Mom's mind
+
+1341
+01:03:32,442 --> 01:03:35,342
+and turn her around
+to get her back in the castle?
+
+1342
+01:03:35,945 --> 01:03:37,375
+So Merida had to chase her down.
+
+1343
+01:03:37,681 --> 01:03:41,111
+Chase her down, stop her,
+and then convince her to come back.
+
+1344
+01:03:41,685 --> 01:03:42,555
+And then they kind of...
+
+1345
+01:03:42,786 --> 01:03:44,976
+And at that point part of
+the convincing process
+
+1346
+01:03:45,388 --> 01:03:47,288
+was Merida's saying
+how much she loved her
+
+1347
+01:03:47,657 --> 01:03:50,617
+and that she's the strength behind her
+and so forth and so on.
+
+1348
+01:03:51,127 --> 01:03:53,647
+Which felt premature,
+because then where we play it now
+
+1349
+01:03:54,097 --> 01:03:55,087
+is in the back to the castle scene.
+
+1350
+01:03:55,332 --> 01:03:58,551
+Right. We solved their issue
+before we needed to solve their issue.
+
+1351
+01:03:59,102 --> 01:03:59,971
+Right, exactly.
+
+1352
+01:04:00,203 --> 01:04:03,453
+That Mom doesn't get to
+experience her daughter
+
+1353
+01:04:04,007 --> 01:04:08,867
+in the moment becoming everything
+that her mom hoped that she would be.
+
+1354
+01:04:09,646 --> 01:04:13,746
+So, by taking all that stuff
+that happens outside
+
+1355
+01:04:14,417 --> 01:04:17,107
+into this sequence
+and collapsing it into...
+
+1356
+01:04:17,587 --> 01:04:19,667
+They're not yet solved
+until after this sequence,
+
+1357
+01:04:20,056 --> 01:04:21,196
+and Mom gets to see her,
+
+1358
+01:04:21,458 --> 01:04:23,628
+and get them to where we need to be.
+
+1359
+01:04:24,561 --> 01:04:27,781
+We wanted to hearken back to that
+moment of Mom, earlier in the movie,
+
+1360
+01:04:28,331 --> 01:04:31,371
+kind of striding into the middle
+of this chaos and taking control of it.
+
+1361
+01:04:31,901 --> 01:04:34,151
+And Merida is kind of
+drawing herself together
+
+1362
+01:04:34,604 --> 01:04:37,323
+to be able to do that in this situation.
+
+1363
+01:04:37,807 --> 01:04:41,026
+Right, and then catching
+the ire of the lords
+
+1364
+01:04:41,611 --> 01:04:44,011
+who would never do this to the Queen,
+but because she's not the Queen
+
+1365
+01:04:44,447 --> 01:04:47,547
+and then kind of assault her
+by visually closing in on her.
+
+1366
+01:04:48,451 --> 01:04:51,581
+That Merida handles it in her own way.
+The Queen would never yell at them,
+
+1367
+01:04:52,122 --> 01:04:53,382
+but Merida would, you know?
+
+1368
+01:04:53,656 --> 01:04:55,875
+-Like Fergus would.
+-Fergus would, yeah, totally.
+
+1369
+01:04:56,292 --> 01:04:57,252
+And it's a key moment.
+
+1370
+01:04:57,494 --> 01:05:00,594
+When we were going through the film
+and plotting out Merida's arc,
+
+1371
+01:05:01,131 --> 01:05:04,381
+this was one of
+the big tentpole sequences.
+
+1372
+01:05:06,569 --> 01:05:09,089
+And here, with Mom
+being in the room, we knew
+
+1373
+01:05:09,539 --> 01:05:12,699
+it was important for Mom to witness
+what Merida was about to do,
+
+1374
+01:05:13,243 --> 01:05:15,903
+but through the many iterations
+we had Mom ona balcony,
+
+1375
+01:05:16,379 --> 01:05:17,868
+we had her in a separate room...
+
+1376
+01:05:18,181 --> 01:05:19,051
+A doorway.
+
+1377
+01:05:19,282 --> 01:05:20,422
+Yeah, another doorway.
+
+1378
+01:05:20,683 --> 01:05:22,023
+But the story point was still the same
+
+1379
+01:05:22,318 --> 01:05:24,948
+of she needs to be here
+to witness what Merida is about to do.
+
+1380
+01:05:27,557 --> 01:05:28,636
+We spent some time
+
+1381
+01:05:28,892 --> 01:05:31,232
+reminding the audience a couple times
+where they're going.
+
+1382
+01:05:31,661 --> 01:05:33,941
+So we drive the camera
+right up that stairway.
+
+1383
+01:05:34,364 --> 01:05:35,384
+-The goal.
+-So, when they're talking about it.
+
+1384
+01:05:35,632 --> 01:05:37,622
+-Yeah.
+-We see that goal in a very real way.
+
+1385
+01:05:38,001 --> 01:05:39,231
+And then sometimes you feel like
+
+1386
+01:05:39,502 --> 01:05:41,022
+you want to remind the audience
+where they are
+
+1387
+01:05:41,337 --> 01:05:43,087
+and what Mom's intent is
+when she comes in there.
+
+1388
+01:05:43,440 --> 01:05:44,780
+She looks up that stairs,
+
+1389
+01:05:45,074 --> 01:05:47,214
+‘cause she wants to get to
+the tapestry room and get out of danger.
+
+1390
+01:05:47,610 --> 01:05:50,420
+Yeah, we have a goal
+that kind of gets derailed in here.
+
+1391
+01:05:50,914 --> 01:05:53,134
+‘Cause then we get caught up,
+just like Mom gets caught up,
+
+1392
+01:05:53,550 --> 01:05:58,453
+of seeing her daughter
+be this fantastic person.
+
+1393
+01:05:58,455 --> 01:05:59,185
+of seeing her daughter
+be this fantastic person.
+
+1394
+01:05:59,389 --> 01:06:00,789
+So Merida is pulling out
+all this knowledge
+
+1395
+01:06:01,090 --> 01:06:05,430
+that Mom has probably been telling her
+all her life and it stuck somewhere.
+
+1396
+01:06:06,129 --> 01:06:09,848
+So she's able to draw on this knowledge
+of how these guys got together.
+
+1397
+01:06:10,467 --> 01:06:13,927
+And put it back at them
+using her storytelling skills
+
+1398
+01:06:14,504 --> 01:06:18,844
+and kind of make them nostalgic
+for how they formed as a group.
+
+1399
+01:06:19,542 --> 01:06:23,002
+Yeah, it plays into their characters
+and their sense of who they are.
+
+1400
+01:06:23,580 --> 01:06:25,250
+But that, it's totally organic.
+
+1401
+01:06:25,582 --> 01:06:28,602
+Merida is shooting from the hip here.
+And it's just a great read.
+
+1402
+01:06:29,118 --> 01:06:30,988
+Kelly Macdonald just did a fabulous job
+
+1403
+01:06:31,354 --> 01:06:32,964
+not only in the whole movie,
+but in this scene.
+
+1404
+01:06:33,289 --> 01:06:36,539
+‘Cause you really get some big
+emotional scales here
+
+1405
+01:06:37,093 --> 01:06:39,933
+from kind of being nervous
+to then being very confident,
+
+1406
+01:06:40,430 --> 01:06:42,890
+to then being very self-conscious
+
+1407
+01:06:43,333 --> 01:06:44,883
+and feeling guilty
+about what she's done.
+
+1408
+01:06:45,201 --> 01:06:48,011
+And that she's caused
+this whole problem herself.
+
+1409
+01:06:48,505 --> 01:06:51,405
+And kind of saying
+that she's sorry, apologizing.
+
+1410
+01:06:51,908 --> 01:06:55,658
+Each of them is going to put themselves
+in the line of fire for the other one.
+
+1411
+01:06:56,279 --> 01:06:58,859
+So, to have Mom explain to her,
+
+1412
+01:06:59,315 --> 01:07:02,005
+"How do I tell my daughter it's okay,
+she doesn't have to get married?"
+
+1413
+01:07:02,485 --> 01:07:03,505
+And, "I've got another idea.
+
+1414
+01:07:03,753 --> 01:07:06,063
+"And I can't A,
+speak, because I'm a bear,
+
+1415
+01:07:06,489 --> 01:07:10,029
+"but B, if anybody turns around
+and looks at me, I'm dead."
+
+1416
+01:07:10,860 --> 01:07:16,100
+So, this was a great time to put in that
+almost Cyrano de Bergerac moment
+
+1417
+01:07:16,933 --> 01:07:20,033
+of her being able to communicate
+through her gesturing
+
+1418
+01:07:20,570 --> 01:07:22,790
+to have it almost come
+as the Queen's voice
+
+1419
+01:07:23,206 --> 01:07:24,516
+through Merida to the lords.
+
+1420
+01:07:24,974 --> 01:07:26,584
+It's also a throwback
+to that deep thoughts scene
+
+1421
+01:07:26,910 --> 01:07:29,430
+where now they can communicate
+to each other without speaking.
+
+1422
+01:07:29,879 --> 01:07:31,308
+They understand
+each other completely,
+
+1423
+01:07:31,614 --> 01:07:34,954
+where before they couldn't speak at all,
+and didn't understand each other.
+
+1424
+01:07:36,286 --> 01:07:39,186
+There was a lot of film work
+to really get that relationship
+
+1425
+01:07:39,689 --> 01:07:42,759
+between where Mom was standing
+and where Merida is standing to work.
+
+1426
+01:07:43,293 --> 01:07:46,453
+Working into those POVs
+and out of those POVs
+
+1427
+01:07:46,996 --> 01:07:48,166
+and who's seeing what
+
+1428
+01:07:48,431 --> 01:07:52,591
+so that it was believable, what was
+happening here with the pantomime.
+
+1429
+01:07:54,037 --> 01:07:55,966
+Steve and I had written
+more in the scene
+
+1430
+01:07:56,339 --> 01:07:59,469
+and we pulled out the stuff
+that was just the most essential.
+
+1431
+01:08:00,009 --> 01:08:03,379
+And I think that's a great parameter
+for any filmmakers out there.
+
+1432
+01:08:03,947 --> 01:08:06,117
+It's when you get into
+how important the editing process is
+
+1433
+01:08:06,516 --> 01:08:07,686
+when you're making a film,
+
+1434
+01:08:07,951 --> 01:08:08,801
+even though, in animation,
+
+1435
+01:08:09,018 --> 01:08:11,628
+we storyboard
+the whole thing beforehand
+
+1436
+01:08:12,088 --> 01:08:14,958
+and you have a really good idea
+of what you're getting into.
+
+1437
+01:08:15,458 --> 01:08:20,788
+There's still a process of,
+"Can I hone it down?" That less is more.
+
+1438
+01:08:21,631 --> 01:08:23,441
+And letting the pacing and the timing
+
+1439
+01:08:23,800 --> 01:08:27,720
+kind of guide you to what
+really makes a sequence work.
+
+1440
+01:08:28,371 --> 01:08:30,770
+‘Cause you could get caught up
+and just be hanging on stuff.
+
+1441
+01:08:31,975 --> 01:08:33,555
+Merida's argument is,
+
+1442
+01:08:33,876 --> 01:08:36,656
+"You guys all got together,
+nobody told you to get together,
+
+1443
+01:08:37,145 --> 01:08:39,225
+"it just happened
+because of who you were.
+
+1444
+01:08:39,616 --> 01:08:42,276
+"Can't land your sons
+do the same thing?
+
+1445
+01:08:42,752 --> 01:08:44,592
+"Can't we be in charge
+of our own lives?"
+
+1446
+01:08:44,953 --> 01:08:45,853
+Everybody was saying,
+
+1447
+01:08:46,089 --> 01:08:48,609
+"Well, how do you convince these lords
+who come out of this old school,
+
+1448
+01:08:49,058 --> 01:08:50,157
+"and who were raised
+on these traditions to agree to this?"
+
+1449
+01:08:50,158 --> 01:08:52,299
+"and who were raised
+on these traditions to agree to this?"
+
+1450
+01:08:52,694 --> 01:08:54,594
+And when we figured out
+it shouldn't be them,
+
+1451
+01:08:54,964 --> 01:08:57,804
+it should be their sons who are in
+the same situation as Merida,
+
+1452
+01:08:58,301 --> 01:09:00,731
+who may not want to marry her
+and are being forced into this,
+
+1453
+01:09:01,170 --> 01:09:02,630
+that they should speak up.
+
+1454
+01:09:02,939 --> 01:09:04,669
+And that's what ultimately
+turns everything around,
+
+1455
+01:09:05,008 --> 01:09:10,048
+was our central argument and kind of
+one of our themes of the whole movie.
+
+1456
+01:09:10,846 --> 01:09:14,596
+Being able to be brave enough
+to say what you want.
+
+1457
+01:09:15,218 --> 01:09:17,058
+-And make your own choices.
+-And make your own choices.
+
+1458
+01:09:17,420 --> 01:09:19,149
+And then live by them.
+
+1459
+01:09:19,488 --> 01:09:20,749
+And Dad acknowledges Merida
+
+1460
+01:09:21,024 --> 01:09:22,604
+as the thing that
+she was dreading being,
+
+1461
+01:09:22,925 --> 01:09:24,735
+which is some version of Mom,
+but in this case,
+
+1462
+01:09:25,094 --> 01:09:30,774
+it turns out to be this positive message
+that Dad sees the good part of that.
+
+1463
+01:09:31,667 --> 01:09:33,917
+And she accepts it
+in the same way that he says it.
+
+1464
+01:09:37,874 --> 01:09:41,563
+At the end of the scene, we're good.
+Merida has come into her own.
+
+1465
+01:09:42,178 --> 01:09:45,138
+Mom, they both recognize each other,
+they've come full circle.
+
+1466
+01:09:45,648 --> 01:09:47,548
+Everything is solved.
+The story is now solved.
+
+1467
+01:09:47,917 --> 01:09:48,767
+So where do we go?
+
+1468
+01:09:48,984 --> 01:09:50,125
+All we have is this little hiccup
+
+1469
+01:09:50,386 --> 01:09:54,396
+of turning Mom-bear back to Elinor
+and getting her human again
+
+1470
+01:09:55,058 --> 01:09:56,988
+as we go into the next bit.
+
+1471
+01:09:57,894 --> 01:10:01,844
+So now that they're as close as
+they've been through the entire film,
+
+1472
+01:10:02,498 --> 01:10:05,567
+we're getting ready to separate them
+as much as possible here.
+
+1473
+01:10:06,102 --> 01:10:06,952
+Exactly.
+
+1474
+01:10:07,170 --> 01:10:09,540
+That's why we see the cut,
+the thing that started it all.
+
+1475
+01:10:09,972 --> 01:10:13,371
+The thing that's still between them,
+things get unraveled,
+
+1476
+01:10:13,943 --> 01:10:15,783
+but now that we want them
+to stay together,
+
+1477
+01:10:16,145 --> 01:10:18,335
+we separate them big time.
+
+1478
+01:10:19,515 --> 01:10:20,655
+And this is the red herring,
+
+1479
+01:10:20,917 --> 01:10:23,547
+the tapestry was
+a red herring in the spell
+
+1480
+01:10:24,020 --> 01:10:25,630
+that had been going around
+and around and around
+
+1481
+01:10:25,955 --> 01:10:28,125
+exactly what the wordings
+of the spell was
+
+1482
+01:10:28,524 --> 01:10:30,484
+and how they'd figure it out
+and how it could...
+
+1483
+01:10:30,860 --> 01:10:34,290
+Literal interpretation versus
+our figurative interpretation
+
+1484
+01:10:34,864 --> 01:10:36,794
+of that what's really torn
+is their relationship,
+
+1485
+01:10:37,567 --> 01:10:39,527
+not necessarily the tapestry.
+
+1486
+01:10:39,902 --> 01:10:41,302
+So we were going around
+and around about that.
+
+1487
+01:10:41,604 --> 01:10:44,764
+If you sew the tapestry up,
+does she turn back into a human?
+
+1488
+01:10:45,308 --> 01:10:46,738
+Or do you have to put it
+over the top of them?
+
+1489
+01:10:47,043 --> 01:10:49,913
+Or does Merida actually
+need to say, "You're sorry"?
+
+1490
+01:10:50,413 --> 01:10:56,123
+So, we're investing in this one tapestry,
+this item to be the solve-all thing,
+
+1491
+01:10:57,019 --> 01:10:58,159
+so that later, by the end of the movie
+
+1492
+01:10:58,421 --> 01:11:01,551
+when she puts it on her and it's
+all stitched up, nothing happens.
+
+1493
+01:11:02,091 --> 01:11:05,251
+So that our wording
+for the spell still works.
+
+1494
+01:11:06,295 --> 01:11:08,165
+And we're about to separate
+Mom from the tapestry.
+
+1495
+01:11:08,531 --> 01:11:10,431
+So we're separating Mom
+from the solution,
+
+1496
+01:11:10,800 --> 01:11:12,880
+what Merida perceives the solution is.
+
+1497
+01:11:14,804 --> 01:11:16,174
+Why Mom changes into a bear,
+
+1498
+01:11:16,472 --> 01:11:18,661
+what motivates her
+to change into a bear,
+
+1499
+01:11:19,075 --> 01:11:21,625
+l wanted to stay away from,
+that it just happens.
+
+1500
+01:11:22,078 --> 01:11:25,538
+Because if you have a trigger,
+then you're locked into that trigger
+
+1501
+01:11:26,115 --> 01:11:27,985
+and we really couldn't find
+a trigger that worked.
+
+1502
+01:11:28,351 --> 01:11:31,861
+It turns out we already had a trigger,
+but we didn't know it.
+
+1503
+01:11:32,455 --> 01:11:34,705
+For Mom to turn into a bear, was food,
+
+1504
+01:11:35,124 --> 01:11:40,224
+was this primal sense,
+this animalistic sense of just hunger.
+
+1505
+01:11:41,030 --> 01:11:42,998
+So she's eating the fish,
+she turns into a bear.
+
+1506
+01:11:42,999 --> 01:11:43,699
+So she's eating the fish,
+she turns into a bear.
+
+1507
+01:11:43,900 --> 01:11:46,450
+When she's sniffing the apples,
+she turns into a bear.
+
+1508
+01:11:46,903 --> 01:11:49,043
+And then whenever
+the human side of her came out
+
+1509
+01:11:49,438 --> 01:11:51,248
+was always about compassion.
+
+1510
+01:11:51,607 --> 01:11:54,947
+She was about to hurt somebody
+or she has just hurt somebody.
+
+1511
+01:11:55,511 --> 01:11:57,181
+And we tend to think of Mom
+
+1512
+01:11:57,513 --> 01:11:59,733
+when her personality is there
+up on her hind legs,
+
+1513
+01:12:00,149 --> 01:12:01,819
+‘cause that's
+when she's trying to maintain
+
+1514
+01:12:02,151 --> 01:12:03,380
+what she was when she was a person.
+
+1515
+01:12:03,653 --> 01:12:07,663
+So, when she draws
+out of that bear mode
+
+1516
+01:12:08,324 --> 01:12:09,344
+and comes up on her hind legs,
+
+1517
+01:12:09,592 --> 01:12:12,022
+we recognize it right away
+as Mom's body language.
+
+1518
+01:12:15,097 --> 01:12:17,286
+This was also interesting that
+
+1519
+01:12:17,700 --> 01:12:20,220
+we've taken probably,
+the jolliest character in the film
+
+1520
+01:12:20,670 --> 01:12:23,130
+and now he's in total revenge mode,
+
+1521
+01:12:23,573 --> 01:12:26,973
+which is adding to the stakes of,
+and the complications
+
+1522
+01:12:27,543 --> 01:12:28,652
+that Merida now has to deal with.
+
+1523
+01:12:28,911 --> 01:12:32,661
+It's like her father and her closest ally
+is now her biggest enemy at this point.
+
+1524
+01:12:33,282 --> 01:12:35,242
+Right. The thing that you fear the most
+from the beginning that we see
+
+1525
+01:12:36,385 --> 01:12:38,165
+as just this kind of comedic clown
+
+1526
+01:12:38,521 --> 01:12:40,891
+is now the Terminator
+by the end of the movie.
+
+1527
+01:12:41,324 --> 01:12:42,284
+And he's not going to stop
+
+1528
+01:12:42,525 --> 01:12:45,155
+regardless of whether this animal
+actually killed his wife or not,
+
+1529
+01:12:45,628 --> 01:12:46,648
+he's going to kill it.
+
+1530
+01:12:46,896 --> 01:12:49,766
+And we needed to go there,
+again, to drive up those stakes
+
+1531
+01:12:50,266 --> 01:12:55,915
+and get into this very serious dilemma
+of her problem is still not yet solved.
+
+1532
+01:12:56,806 --> 01:12:59,465
+And now Merida is fighting
+to get back to her mother,
+
+1533
+01:12:59,942 --> 01:13:02,812
+while, at the beginning of the movie,
+she was running away from her mother.
+
+1534
+01:13:03,312 --> 01:13:04,892
+And now you've come
+full circle in their arc
+
+1535
+01:13:05,214 --> 01:13:06,614
+about how they feel about each other.
+
+1536
+01:13:06,916 --> 01:13:09,376
+Even visually going
+from the red-red warms
+
+1537
+01:13:09,819 --> 01:13:11,629
+into the super-super cools.
+
+1538
+01:13:11,988 --> 01:13:14,858
+That we get as much contrast
+as possible in the lighting.
+
+1539
+01:13:15,358 --> 01:13:17,138
+When she breaks a window,
+it blows out a light,
+
+1540
+01:13:17,493 --> 01:13:19,043
+so it could be even darker
+on one side of the room,
+
+1541
+01:13:19,362 --> 01:13:20,672
+and lighter on the other side
+of the room.
+
+1542
+01:13:20,963 --> 01:13:23,833
+Again, there's that duality that's in play.
+
+1543
+01:13:24,333 --> 01:13:26,853
+That just kind of supports the story
+whenever we can.
+
+1544
+01:13:27,303 --> 01:13:28,413
+Now, we haven't seen the triplets
+
+1545
+01:13:28,671 --> 01:13:31,891
+and there was a scene where
+we cut back to them eating the cake,
+
+1546
+01:13:32,441 --> 01:13:35,281
+where Maudie finds them
+eating the cake, half-transformed.
+
+1547
+01:13:35,778 --> 01:13:37,968
+Because earlier on, when Mom's
+going through the transformation,
+
+1548
+01:13:38,381 --> 01:13:39,231
+we had one shot
+
+1549
+01:13:39,749 --> 01:13:41,999
+where she pops up
+from behind the bed half-transformed,
+
+1550
+01:13:42,418 --> 01:13:44,527
+looking kind of like a were-bear
+or a werewolf.
+
+1551
+01:13:44,921 --> 01:13:46,181
+But ultimately we didn't need that,
+
+1552
+01:13:46,455 --> 01:13:49,765
+and we cut it out as we were watching it
+and reviewing the reels
+
+1553
+01:13:50,326 --> 01:13:54,956
+and looking at the story as a whole,
+which was a great exercise, to go,
+
+1554
+01:13:55,698 --> 01:13:57,658
+"You know what?
+We know that when last we left them
+
+1555
+01:13:58,034 --> 01:13:59,933
+"they were looking at the cake,
+the spell cake."
+
+1556
+01:14:00,303 --> 01:14:01,973
+So to look and see them
+coming out of the shadows
+
+1557
+01:14:02,305 --> 01:14:04,855
+with these little glowing eyes and reveal
+that they're bears, that was enough.
+
+1558
+01:14:05,308 --> 01:14:08,088
+It was more of a surprise than
+leading the audience down that path.
+
+1559
+01:14:10,112 --> 01:14:12,922
+I think this scene was the first time
+we used Maudie early on.
+
+1560
+01:14:13,416 --> 01:14:16,666
+And as we developed the story
+we kept finding ways to use her
+
+1561
+01:14:17,219 --> 01:14:19,529
+and establish her
+as the governess of the triplets
+
+1562
+01:14:19,956 --> 01:14:22,796
+or give her reasons to exist
+in the movie beforehand.
+
+1563
+01:14:23,292 --> 01:14:24,962
+And I think that helps,
+so once you get here
+
+1564
+01:14:25,294 --> 01:14:28,284
+you know her as a character by the time
+you see her go through this trial.
+
+1565
+01:14:28,798 --> 01:14:31,077
+Yeah, she's always
+fabulous to work with.
+
+1566
+01:14:31,500 --> 01:14:33,670
+We kept just bringing her back.
+
+1567
+01:14:34,070 --> 01:14:37,000
+And also kind of just
+broadening this universe
+
+1568
+01:14:37,506 --> 01:14:40,756
+that we're creating of these characters,
+of the castle life and everything.
+
+1569
+01:14:41,310 --> 01:14:44,150
+And then just the mixture here
+of chase after chase, right?
+
+1570
+01:14:44,647 --> 01:14:46,227
+Yeah, we liked the idea
+of feathering the two,
+
+1571
+01:14:46,549 --> 01:14:48,599
+the comedic chase
+against the dramatic chase,
+
+1572
+01:14:48,985 --> 01:14:51,474
+‘cause it was a fun way
+to cover ground in two places
+
+1573
+01:14:51,921 --> 01:14:55,461
+but you still have time to laugh
+as well as be worried.
+
+1574
+01:14:56,058 --> 01:14:57,398
+Yeah, so you're
+on the edge of your seat
+
+1575
+01:14:57,693 --> 01:14:59,473
+because two things
+have to get resolved.
+
+1576
+01:14:59,829 --> 01:15:02,318
+There's two goals that are happening
+at the same time.
+
+1577
+01:15:02,765 --> 01:15:06,775
+As Mom gets further and further away,
+the chase with Maudie goes on inside.
+
+1578
+01:15:09,572 --> 01:15:10,912
+Well, they're kind of
+paying Maudie back
+
+1579
+01:15:11,207 --> 01:15:14,427
+from all the previous times
+that she's been chasing them.
+
+1580
+01:15:15,678 --> 01:15:17,378
+Well, we know how
+they get around the castle
+
+1581
+01:15:17,713 --> 01:15:21,112
+by the little ins and outs
+and their little secret passageways.
+
+1582
+01:15:21,684 --> 01:15:24,234
+So that Maudie could ever think
+that she could outrun them,
+
+1583
+01:15:24,687 --> 01:15:26,857
+to the audience, was kind of ridiculous.
+
+1584
+01:15:27,256 --> 01:15:29,626
+But they can just show up
+out of nowhere,
+
+1585
+01:15:30,059 --> 01:15:31,929
+and that just adds to the whole moment.
+
+1586
+01:15:35,898 --> 01:15:38,298
+I love this little bit here,
+one of the triplets just trips.
+
+1587
+01:15:38,734 --> 01:15:40,784
+The animators asked me,
+"Why? Why do you want to do that?"
+
+1588
+01:15:41,170 --> 01:15:43,750
+I'm all, "Because it's funny.
+One of 'em has got to eat it.”
+
+1589
+01:15:44,206 --> 01:15:45,726
+It's just one of those little aspects.
+
+1590
+01:15:46,042 --> 01:15:49,522
+It's just a little detail that... Yeah,
+does it serve anything for the story?
+
+1591
+01:15:50,112 --> 01:15:54,012
+No, but overall, it just gives
+a little entertainment into the shot.
+
+1592
+01:15:54,650 --> 01:15:56,990
+The whole concept of her sewing
+while she's riding
+
+1593
+01:15:57,420 --> 01:15:58,790
+-has been in since the beginning.
+-Yeah.
+
+1594
+01:15:59,088 --> 01:16:01,428
+Brenda was all over that.
+She loved that idea.
+
+1595
+01:16:01,857 --> 01:16:05,137
+And I love that little red lantern
+on that blue background, it's beautiful.
+
+1596
+01:16:05,694 --> 01:16:07,594
+-Yeah.
+-All the red firelight in here.
+
+1597
+01:16:07,963 --> 01:16:09,192
+It's gorgeous to look at.
+
+1598
+01:16:09,465 --> 01:16:12,365
+Yeah, Danielle Feinberg
+and Steve Pilcher
+
+1599
+01:16:12,868 --> 01:16:16,118
+talked about the very
+theatrical lighting of this movie.
+
+1600
+01:16:16,672 --> 01:16:19,951
+And any sequence we can go
+to really push it, l was all for.
+
+1601
+01:16:20,509 --> 01:16:23,139
+And it turns out great.
+It's just so striking.
+
+1602
+01:16:23,612 --> 01:16:26,102
+And in the early version,
+this whole scene took place in snow.
+
+1603
+01:16:26,549 --> 01:16:29,009
+It was like the thickest part
+of the snowfall that we had.
+
+1604
+01:16:29,452 --> 01:16:31,702
+So he was plowing through snow drifts.
+
+1605
+01:16:33,055 --> 01:16:35,275
+Ropes are not easy in animation
+
+1606
+01:16:35,691 --> 01:16:37,501
+and to coordinate
+how they're going around Mom
+
+1607
+01:16:37,860 --> 01:16:39,380
+and who's holding them
+with the Crowds Department,
+
+1608
+01:16:39,695 --> 01:16:41,335
+with Paul Mendoza and Paul Kanyuk
+
+1609
+01:16:41,664 --> 01:16:44,294
+and the crowds team was just fantastic
+in this whole sequence.
+
+1610
+01:16:44,767 --> 01:16:46,027
+It just made it.
+
+1611
+01:16:46,302 --> 01:16:49,371
+It's like a cat's cradle game to look at
+that diagram of how to arrange.
+
+1612
+01:16:49,905 --> 01:16:52,594
+And which one is going to what horse
+and how they pin it down.
+
+1613
+01:16:53,075 --> 01:16:54,535
+And the wisps lead her to her fate,
+
+1614
+01:16:54,844 --> 01:16:57,214
+lead her back to her mom,
+so they can resolve this thing.
+
+1615
+01:16:57,713 --> 01:16:58,733
+But also,
+
+1616
+01:16:59,281 --> 01:17:00,861
+steer her away from Mor'du.
+
+1617
+01:17:02,051 --> 01:17:04,891
+And there's great acting
+from Billy Connolly in this
+
+1618
+01:17:05,387 --> 01:17:06,376
+to get that rage out of him.
+
+1619
+01:17:06,622 --> 01:17:09,172
+Because he's been
+the jolly Scotsman the whole time,
+
+1620
+01:17:09,625 --> 01:17:12,555
+to really get him to yell and roar,
+and Billy was all game for it.
+
+1621
+01:17:13,062 --> 01:17:15,342
+And to be fierce, he was terrific at that.
+
+1622
+01:17:15,798 --> 01:17:16,968
+This took a really long time to block.
+
+1623
+01:17:17,233 --> 01:17:18,573
+Yeah, well this was
+one of the first things
+
+1624
+01:17:18,868 --> 01:17:20,568
+-when I came on that we worked on.
+-Right, right.
+
+1625
+01:17:20,903 --> 01:17:24,063
+That we kind of reboarded and set,
+and then it went away
+
+1626
+01:17:24,607 --> 01:17:26,447
+and then it wasn't until almost
+near the end of the process
+
+1627
+01:17:26,809 --> 01:17:29,299
+where we came back into it
+with Rob Anderson and his layout team
+
+1628
+01:17:29,745 --> 01:17:31,495
+and got it all situated and set.
+
+1629
+01:17:31,847 --> 01:17:32,956
+Well, we didn't have
+all the characters either.
+
+1630
+01:17:33,215 --> 01:17:35,115
+-Exactly.
+-We were waiting for character design
+
+1631
+01:17:35,484 --> 01:17:36,504
+and to be realized.
+
+1632
+01:17:37,319 --> 01:17:39,629
+But we were already thinking about
+what it needed to be.
+
+1633
+01:17:41,690 --> 01:17:44,320
+We had the dogs in the beginning
+of this sequence and they disappeared.
+
+1634
+01:17:44,827 --> 01:17:46,437
+And I'm all, "Oh, my gosh."
+
+1635
+01:17:46,762 --> 01:17:48,722
+It's already being animated and
+we're already lighting it
+
+1636
+01:17:49,098 --> 01:17:50,998
+and I'm all, "Where are my dogs?
+Wouldn't they do anything?"
+
+1637
+01:17:51,367 --> 01:17:53,887
+So we managed to sneak them
+into a couple of shots
+
+1638
+01:17:54,336 --> 01:17:55,596
+and see 'em get walloped by the bear.
+
+1639
+01:17:55,871 --> 01:17:57,211
+So, that explains
+why they're not around.
+
+1640
+01:17:57,506 --> 01:18:00,526
+Because, back in the day,
+the dogs would be all over that bear.
+
+1641
+01:18:01,043 --> 01:18:04,003
+So many plates to spin that
+you forget about certain elements.
+
+1642
+01:18:04,880 --> 01:18:06,220
+-But they will come back to haunt you.
+-Yeah.
+
+1643
+01:18:06,515 --> 01:18:08,005
+Sometimes you don't want to
+draw attention to something.
+
+1644
+01:18:08,317 --> 01:18:09,837
+You don't want the audience
+to worry about either.
+
+1645
+01:18:10,152 --> 01:18:13,402
+Like the audience is hardly worrying
+about where the dogs are at this point.
+
+1646
+01:18:13,956 --> 01:18:15,446
+They're totally caught up
+in Mor'du, so...
+
+1647
+01:18:15,758 --> 01:18:17,278
+But if we could balance it just right
+
+1648
+01:18:17,593 --> 01:18:20,083
+to cheat them that
+we've explained why they're not there,
+
+1649
+01:18:20,529 --> 01:18:21,579
+why there are no horses there,
+
+1650
+01:18:21,830 --> 01:18:24,050
+that everybody's backed off
+without showing it,
+
+1651
+01:18:24,466 --> 01:18:27,126
+then it doesn't pull you out
+without having any questions.
+
+1652
+01:18:28,270 --> 01:18:29,700
+Gary Rydstrom and E.J. Holowicki
+
+1653
+01:18:30,005 --> 01:18:32,055
+did an amazing job
+with the bear vocals in this movie.
+
+1654
+01:18:32,441 --> 01:18:34,581
+Oh, yeah, hearing the very
+different aspects of them.
+
+1655
+01:18:34,977 --> 01:18:37,937
+Yeah, there was a huge amount of
+design work that went into their voices.
+
+1656
+01:18:38,581 --> 01:18:40,831
+-And it's not all just bear sounds.
+-Right.
+
+1657
+01:18:41,250 --> 01:18:43,800
+And there was a version in this
+where Mom was turning back and forth
+
+1658
+01:18:44,253 --> 01:18:46,623
+between herself and a bear
+during this fight.
+
+1659
+01:18:47,056 --> 01:18:50,925
+Right. From bear mode to Mom-bear,
+to bear mode to Mom-bear.
+
+1660
+01:18:51,560 --> 01:18:54,960
+And it just, all these ideas
+which were kind of great ideas on paper
+
+1661
+01:18:55,531 --> 01:18:58,461
+that we would try,
+and we'd try everything
+
+1662
+01:18:58,968 --> 01:19:01,108
+to find that right concoction,
+
+1663
+01:19:01,503 --> 01:19:04,492
+that right chemical explosion
+of all the right things.
+
+1664
+01:19:05,007 --> 01:19:08,376
+And we end up throwing out
+a lot of stuff.
+
+1665
+01:19:08,944 --> 01:19:11,054
+It becomes too complex.
+
+1666
+01:19:11,447 --> 01:19:13,407
+And I wanted to catch the audience
+by surprise with this,
+
+1667
+01:19:13,782 --> 01:19:15,512
+where you know they were finished,
+
+1668
+01:19:15,851 --> 01:19:19,191
+but then, it was Mom ultimately
+and her kind of smarts.
+
+1669
+01:19:19,755 --> 01:19:21,925
+She couldn't beat 'em physically,
+but getting the help
+
+1670
+01:19:22,324 --> 01:19:25,344
+from this huge stone column
+to crush the bear actually did it.
+
+1671
+01:19:25,861 --> 01:19:29,581
+That she recognizes that crack
+and she could make it bigger.
+
+1672
+01:19:30,199 --> 01:19:31,598
+It doesn't work
+when she wants it to work,
+
+1673
+01:19:31,900 --> 01:19:33,629
+but eventually there's a slow give away.
+
+1674
+01:19:33,969 --> 01:19:37,629
+That's kind of almost my homage
+to Force 10 From Navarone
+
+1675
+01:19:38,240 --> 01:19:40,260
+when they blow up the dam
+to save everybody,
+
+1676
+01:19:40,643 --> 01:19:42,453
+but then the dam doesn't
+break right away,
+
+1677
+01:19:42,811 --> 01:19:45,741
+and then it breaks later
+and washes away all the Nazis, yeah.
+
+1678
+01:19:46,548 --> 01:19:47,888
+And we wanted to resolve Mor'du
+
+1679
+01:19:48,450 --> 01:19:49,559
+instead of just kill him.
+
+1680
+01:19:49,852 --> 01:19:52,541
+So we had this idea
+of Mor'du gets killed,
+
+1681
+01:19:53,022 --> 01:19:56,532
+and that releases his spirit to then,
+how apropos, to become a wisp,
+
+1682
+01:19:57,126 --> 01:20:00,936
+to then warn others or lead them away
+from these negative fates.
+
+1683
+01:20:01,563 --> 01:20:03,843
+Yeah, I really liked the idea
+of resolving his story,
+
+1684
+01:20:04,266 --> 01:20:06,726
+so he's not just this dead
+carcass under the rock.
+
+1685
+01:20:07,169 --> 01:20:10,599
+He's like the soul of that guy,
+however nasty he was,
+
+1686
+01:20:11,173 --> 01:20:15,862
+gets redeemed, somehow, just by being
+released by another enchanted bear.
+
+1687
+01:20:16,612 --> 01:20:18,512
+-Yeah.
+-He started out being purely a bear.
+
+1688
+01:20:18,881 --> 01:20:19,811
+There were different versions.
+
+1689
+01:20:20,049 --> 01:20:22,329
+There was versions where
+there was less magic around him.
+
+1690
+01:20:22,751 --> 01:20:25,211
+And we weren't being as clear
+in different versions.
+
+1691
+01:20:25,654 --> 01:20:28,554
+We wanted there to be lore
+around him like Moby Dick,
+
+1692
+01:20:29,058 --> 01:20:30,758
+but that we didn't know
+where he came from.
+
+1693
+01:20:31,093 --> 01:20:32,903
+And then as the story developed,
+
+1694
+01:20:33,262 --> 01:20:35,222
+it became more obvious
+that he was somebody.
+
+1695
+01:20:35,597 --> 01:20:36,496
+And I liked that more because
+
+1696
+01:20:36,732 --> 01:20:39,012
+it feels more like a magical world
+that we created.
+
+1697
+01:20:39,435 --> 01:20:42,170
+It's a great storyline to help parallel
+what Merida is about to go through
+
+1698
+01:20:42,171 --> 01:20:43,541
+It's a great storyline to help parallel
+what Merida is about to go through
+
+1699
+01:20:43,839 --> 01:20:46,939
+and what the possible outcome
+for Mom is going to be.
+
+1700
+01:20:48,777 --> 01:20:52,647
+This was probably, for me,
+one of the hardest sequences to do,
+
+1701
+01:20:53,282 --> 01:20:55,712
+was this end moment to kind of tie up
+
+1702
+01:20:56,151 --> 01:21:00,371
+how the magic actually
+works with the words and the tapestry,
+
+1703
+01:21:01,056 --> 01:21:03,665
+making the second sunrise happen.
+
+1704
+01:21:04,126 --> 01:21:08,076
+When does Mom turn into the bear
+so that you know the game is over,
+
+1705
+01:21:08,731 --> 01:21:12,651
+so that we can be sad and crying?
+That no matter how hard Merida tried,
+
+1706
+01:21:13,302 --> 01:21:14,442
+even though she's learned her lesson,
+
+1707
+01:21:14,703 --> 01:21:16,953
+she wants her mom back,
+she still kind of failed.
+
+1708
+01:21:17,373 --> 01:21:20,833
+Which I think is a great thing
+for kids and adults to understand
+
+1709
+01:21:21,410 --> 01:21:23,630
+that there are consequences
+to our actions.
+
+1710
+01:21:24,046 --> 01:21:25,976
+And we can't just be selfish.
+
+1711
+01:21:26,348 --> 01:21:30,268
+We have to think about
+what's going to happen a little bit more.
+
+1712
+01:21:30,919 --> 01:21:33,789
+But getting this to work just right
+was really difficult.
+
+1713
+01:21:34,790 --> 01:21:36,840
+Getting the second sunrise in there,
+
+1714
+01:21:37,226 --> 01:21:39,806
+putting it back in the ring of stones
+as the focal point.
+
+1715
+01:21:40,262 --> 01:21:42,192
+We would go around and around
+about how that actually worked.
+
+1716
+01:21:42,598 --> 01:21:44,878
+But I think,
+once we finally figured this out,
+
+1717
+01:21:45,300 --> 01:21:46,970
+and that we actually
+had the ticking clock,
+
+1718
+01:21:47,336 --> 01:21:49,206
+the visual ticking clock of the sun rising
+
+1719
+01:21:49,571 --> 01:21:52,791
+and the sunlight coming down
+the stones and across the ground,
+
+1720
+01:21:53,342 --> 01:21:58,352
+really gave it this extra little bit of kick
+in the sequence
+
+1721
+01:21:59,148 --> 01:22:01,228
+to realize when it was actually over.
+
+1722
+01:22:01,617 --> 01:22:03,897
+And when she says, "I love you,"
+just before the sun hits her,
+
+1723
+01:22:04,319 --> 01:22:06,069
+and then once it hits the tapestry
+
+1724
+01:22:06,422 --> 01:22:07,821
+that changes Mom back
+instantaneously
+
+1725
+01:22:08,123 --> 01:22:10,312
+and, again,
+we don't see that magic happen.
+
+1726
+01:22:10,726 --> 01:22:12,896
+We don't see that scene,
+it just happens.
+
+1727
+01:22:13,295 --> 01:22:14,725
+Yeah, we wanted to
+mute the magic though.
+
+1728
+01:22:15,030 --> 01:22:17,370
+We didn't want to see
+a giant spectacle of special effects here.
+
+1729
+01:22:17,800 --> 01:22:22,490
+We wanted to just feel like this moment
+was very personal and very small.
+
+1730
+01:22:23,238 --> 01:22:25,868
+Yeah, it's unexplained,
+and it makes it more intimate,
+
+1731
+01:22:26,341 --> 01:22:30,381
+instead of just something that happens
+that's fireworks or blue swirly lights
+
+1732
+01:22:31,046 --> 01:22:33,626
+or anything like that,
+that everybody can witness and see.
+
+1733
+01:22:34,082 --> 01:22:37,272
+It's just... Blink! She's back to normal.
+
+1734
+01:22:38,720 --> 01:22:40,330
+The ending is all about the balance.
+
+1735
+01:22:40,656 --> 01:22:43,406
+We have all these strings
+that we have to tie up.
+
+1736
+01:22:43,892 --> 01:22:44,912
+So it's really tricky.
+
+1737
+01:22:45,160 --> 01:22:47,240
+The ending of a film is always really
+
+1738
+01:22:47,629 --> 01:22:49,679
+one of the trickiest things
+there is in filmmaking,
+
+1739
+01:22:50,065 --> 01:22:53,254
+‘cause there's always
+these emotional qualities to it
+
+1740
+01:22:53,802 --> 01:22:59,892
+that you have to just arrange just right
+to have the effect that you really want.
+
+1741
+01:23:00,843 --> 01:23:03,423
+So there was a lot going on
+here that we had to navigate,
+
+1742
+01:23:03,879 --> 01:23:08,159
+and how much of what to make it work
+and not just seem overbearing.
+
+1743
+01:23:10,152 --> 01:23:13,312
+It seems like near the end of a movie
+the audience's perceptions speed up.
+
+1744
+01:23:13,856 --> 01:23:16,286
+And so, you're kind of
+weighing this idea
+
+1745
+01:23:16,992 --> 01:23:19,482
+of how long does it take you
+to get to the climax?
+
+1746
+01:23:19,928 --> 01:23:22,117
+‘Cause they're kind of maybe
+ahead of you at this point.
+
+1747
+01:23:22,531 --> 01:23:25,931
+And so you want to make sure
+you're dishing it out at the right pace
+
+1748
+01:23:26,502 --> 01:23:28,342
+for the audience to be receiving it.
+
+1749
+01:23:28,704 --> 01:23:30,433
+And sometimes we find we lag too much
+
+1750
+01:23:30,772 --> 01:23:33,322
+and we want to get to it a little sooner
+than we thought we did.
+
+1751
+01:23:38,146 --> 01:23:42,746
+This was, technically, one of
+the hardest shots we had in the movie
+
+1752
+01:23:43,485 --> 01:23:47,025
+because of the rate of the camera move
+and the pan that was in it,
+
+1753
+01:23:47,623 --> 01:23:49,843
+and you're shooting
+24 frames a second,
+
+1754
+01:23:50,259 --> 01:23:53,069
+you get a strobing, this stutter.
+
+1755
+01:23:53,562 --> 01:23:57,312
+And, to work that out,
+we had to slow down the move,
+
+1756
+01:23:57,933 --> 01:24:00,513
+make it not as long,
+pan slower or faster.
+
+1757
+01:24:00,969 --> 01:24:02,169
+But I wanted to see all the stuff,
+
+1758
+01:24:02,437 --> 01:24:05,947
+so we did some magic tricks
+and worked it out.
+
+1759
+01:24:07,409 --> 01:24:09,989
+But that's one of the things
+that you run into in film.
+
+1760
+01:24:10,445 --> 01:24:12,465
+And then I like getting into...
+
+1761
+01:24:12,848 --> 01:24:16,388
+Merida kind of starts off the movie
+with her narration,
+
+1762
+01:24:16,985 --> 01:24:20,934
+and here she ends her narration
+with that moral of the story.
+
+1763
+01:24:21,857 --> 01:24:27,397
+And I think it works great with
+Mumford & Sons' song in this moment,
+
+1764
+01:24:28,263 --> 01:24:30,663
+that there's this little hole cut out
+for Merida to say her piece,
+
+1765
+01:24:31,099 --> 01:24:33,679
+and then you go back into the song,
+which kind of sums it all up.
+
+1766
+01:24:34,136 --> 01:24:36,571
+I'm really glad that
+Mumford & Sons came on board
+
+1767
+01:24:36,572 --> 01:24:38,212
+I'm really glad that
+Mumford & Sons came on board
+
+1768
+01:24:38,907 --> 01:24:42,217
+and agreed to do the final song,
+our final song moment in the movie.
+
+1769
+01:24:42,778 --> 01:24:46,348
+-And Birdy.
+-And Birdy, she sings it great.
+
+1770
+01:24:47,950 --> 01:24:52,139
+It just encapsulates the whole story
+in this nice kind of 1-2-3 bit.
+
+1771
+01:24:52,821 --> 01:24:55,781
+Even their emotional arc,
+Merida's emotional arc of where she is,
+
+1772
+01:24:56,291 --> 01:24:58,191
+just sums up everything perfectly.
+
+1773
+01:24:58,560 --> 01:25:01,280
+For me, it's very satisfying.
+And I don't know that I've seen it before,
+
+1774
+01:25:01,763 --> 01:25:05,242
+but it goes to the original heart
+of Brenda's story that
+
+1775
+01:25:05,834 --> 01:25:08,023
+the resolution is a love story
+between a mother and daughter.
+
+1776
+01:25:08,437 --> 01:25:11,687
+And I don't know that
+we've seen a lot of that in movies.
+
+1777
+01:25:12,240 --> 01:25:13,110
+-Yeah.
+-Especially family movies.
+
+1778
+01:25:13,342 --> 01:25:14,192
+Well, you bookend that
+
+1779
+01:25:14,409 --> 01:25:17,509
+Merida was having her favorite day
+with Angus at the beginning of the film.
+
+1780
+01:25:18,046 --> 01:25:20,626
+And now Mom has joined her
+in her world,
+
+1781
+01:25:21,083 --> 01:25:23,893
+I think wraps their characters up
+quite nicely.
+
+1782
+01:25:24,386 --> 01:25:27,896
+We had this one idea that I really loved
+and I wish we could have kept.
+
+1783
+01:25:28,490 --> 01:25:30,599
+You're back to the archery tournament.
+
+1784
+01:25:30,993 --> 01:25:32,723
+And Merida fires an arrow
+and makes a bull's-eye,
+
+1785
+01:25:33,061 --> 01:25:35,431
+and then Mom picks up the bow
+and splits her arrow.
+
+1786
+01:25:35,864 --> 01:25:37,353
+And she says, "You didn't get
+everything from your father."
+
+1787
+01:25:37,666 --> 01:25:39,686
+-Yeah, we had that for a while.
+-We had that for a while,
+
+1788
+01:25:40,068 --> 01:25:43,318
+but ultimately it went back to
+that it's this competing thing
+
+1789
+01:25:43,872 --> 01:25:45,622
+and what are they
+out there competing for?
+
+1790
+01:25:45,974 --> 01:25:47,524
+Are they still competing for her hand?
+
+1791
+01:25:47,843 --> 01:25:49,952
+And it was just kind of
+the wrong resolution.
+
+1792
+01:25:50,345 --> 01:25:52,595
+But that, again, it went back
+into that comparison,
+
+1793
+01:25:53,015 --> 01:25:56,115
+and the suitors were hanging around.
+So it was just muddy.
+
+1794
+01:25:56,652 --> 01:25:59,672
+It was a great moment,
+but it was a can of worms
+
+1795
+01:26:00,188 --> 01:26:01,528
+and it opened up all these questions.
+
+1796
+01:26:01,857 --> 01:26:03,467
+So that doing it this way,
+
+1797
+01:26:03,792 --> 01:26:06,402
+not having everything resolved,
+it's resolved.
+
+1798
+01:26:06,862 --> 01:26:08,732
+And Merida and Mom have changed.
+
+1799
+01:26:09,097 --> 01:26:12,467
+Merida is wearing a nicer dress.
+Mom's hair is down.
+
+1800
+01:26:13,035 --> 01:26:15,644
+But that you have that resolution
+of their characters,
+
+1801
+01:26:16,104 --> 01:26:18,714
+and in the song,
+the song's words are basically saying,
+
+1802
+01:26:19,174 --> 01:26:22,274
+"We are what we are, and that's okay."
+
+1803
+01:26:22,811 --> 01:26:26,590
+Getting to see them riding together,
+even without that archery moment,
+
+1804
+01:26:27,215 --> 01:26:28,235
+you sort of feel like...
+
+1805
+01:26:28,483 --> 01:26:30,263
+I think we all believe that Mom
+
+1806
+01:26:30,619 --> 01:26:32,579
+was quite a bit like Merida
+when she was young.
+
+1807
+01:26:32,954 --> 01:26:35,534
+So, you get to see a touch of that
+when they're riding together.
+
+1808
+01:26:35,991 --> 01:26:37,071
+And Mom's hair is flowing,
+
+1809
+01:26:37,325 --> 01:26:39,845
+and, of course, she can ride on a horse
+fast across the countryside,
+
+1810
+01:26:40,295 --> 01:26:41,562
+‘cause she used to be Merida
+when she was a kid.
+
+1811
+01:26:41,563 --> 01:26:42,113
+‘cause she used to be Merida
+when she was a kid.
+
+1812
+01:26:42,297 --> 01:26:43,563
+Totally. And they're having fun together.
+
+1813
+01:26:43,565 --> 01:26:44,434
+Totally. And they're having fun together.
+
+1814
+01:26:44,666 --> 01:26:48,036
+Which I think is at the heart
+of all relationships
+
+1815
+01:26:48,603 --> 01:26:49,943
+that, when they're working, is that
+
+1816
+01:26:50,238 --> 01:26:52,168
+there's not a hierarchy
+in the relationship.
+
+1817
+01:26:52,541 --> 01:26:56,581
+You're just who you are and
+you see each other on this equal level
+
+1818
+01:26:57,279 --> 01:26:59,739
+and play is a big part of that.
+
+1819
+01:27:00,182 --> 01:27:01,852
+I know as a parent, for me,
+
+1820
+01:27:02,184 --> 01:27:04,704
+when I'm playing with my kids
+there's no parent’kid thing,
+
+1821
+01:27:05,153 --> 01:27:06,463
+we're just having fun.
+
+1822
+01:27:06,755 --> 01:27:08,485
+With my friends,
+when we go out and see movies,
+
+1823
+01:27:08,824 --> 01:27:11,044
+that's just another form of play.
+
+1824
+01:27:12,527 --> 01:27:13,727
+Well, the last part of the film
+
+1825
+01:27:13,995 --> 01:27:15,896
+is we had this great idea
+of ending a movie.
+
+1826
+01:27:15,897 --> 01:27:16,247
+is we had this great idea
+of ending a movie.
+
+1827
+01:27:16,398 --> 01:27:17,658
+-Oh, it's coming up, not yet.
+-It's coming up.
+
+1828
+01:27:17,933 --> 01:27:18,953
+You got to wait 'til the very end.
+
+1829
+01:27:19,201 --> 01:27:21,511
+Well, hold on, there's one other one
+that you wanted to end on.
+
+1830
+01:27:21,937 --> 01:27:22,957
+-It was the hawk...
+-Oh, yeah.
+
+1831
+01:27:23,205 --> 01:27:24,725
+-... that came in.
+-We had this thing...
+
+1832
+01:27:25,040 --> 01:27:26,120
+Yeah, we had that. It was...
+
+1833
+01:27:26,374 --> 01:27:29,624
+When they ride out
+and the wisp disappears,
+
+1834
+01:27:30,178 --> 01:27:32,577
+we kind of panned up and you see
+the ships going off into the sunset.
+
+1835
+01:27:33,014 --> 01:27:35,854
+l had that hawk or an eagle come down,
+which represented Merida,
+
+1836
+01:27:36,351 --> 01:27:37,991
+just dive right at the screen and tear it.
+
+1837
+01:27:38,320 --> 01:27:41,719
+And then I would go into the most
+awesome heavy metal soundtrack
+
+1838
+01:27:42,290 --> 01:27:44,040
+at the end of the movie,
+which was fantastic.
+
+1839
+01:27:44,392 --> 01:27:45,652
+With some bagpipes?
+Yeah, it was great.
+
+1840
+01:27:45,927 --> 01:27:47,536
+-Which was fantastic.
+-We did that for a couple screenings,
+
+1841
+01:27:47,863 --> 01:27:49,643
+-or one screening we did it for.
+-Yeah. And it was great,
+
+1842
+01:27:49,998 --> 01:27:51,197
+but they said, "No."
+
+1843
+01:27:51,466 --> 01:27:53,426
+So to keep the integrity of the piece,
+we didn't go that way.
+
+1844
+01:27:53,802 --> 01:27:54,701
+l thought you were kidding around
+
+1845
+01:27:54,936 --> 01:27:57,956
+and I didn't realize you really meant
+that to be in until a few weeks later.
+
+1846
+01:27:58,473 --> 01:28:00,202
+It's drawn and it's been archived.
+
+1847
+01:28:00,609 --> 01:28:03,629
+Yeah. But what we did settle on
+for the very, very end of the movie
+
+1848
+01:28:04,146 --> 01:28:08,066
+is just to have this little button
+at the very end, where...
+
+1849
+01:28:08,784 --> 01:28:11,943
+What happened to all that junk that
+Merida bought in the Witch's cottage?
+
+1850
+01:28:12,487 --> 01:28:14,737
+.. bought in the Witch's cottage,
+and we came up with this great idea.
+
+1851
+01:28:15,157 --> 01:28:16,497
+And you guys are going to see it
+and we thought that's
+
+1852
+01:28:16,792 --> 01:28:19,662
+just kind of a nice little button
+at the end of the movie.
+
+1853
+01:28:20,495 --> 01:28:21,724
+Well, that's it, gang.
+
+1854
+01:28:21,997 --> 01:28:24,837
+Thanks for watching Brave.
+l hope you enjoyed it.
+
+1855
+01:28:25,333 --> 01:28:26,853
+I'm the director, Mark Andrews.
+
+1856
+01:28:27,169 --> 01:28:28,279
+Co-director, Steve Purcell.
+
+1857
+01:28:28,537 --> 01:28:29,647
+Editor, Nick Smith.
+
+1858
+01:28:29,905 --> 01:28:31,245
+Story supervisor, Brian Larsen.
+
+1859
+01:28:31,540 --> 01:28:32,970
+And I couldn't have made it
+without you guys.
+
+1860
+01:28:33,275 --> 01:28:36,174
+It was fantastic working with you
+and the rest of the crew.
+
+1861
+01:28:36,678 --> 01:28:38,048
+-l love you guys.
+-l love you guys.
+
+1862
+01:28:38,346 --> 01:28:39,196
+-Thank you.
+-Thank you.
+
+1863
+01:28:39,414 --> 01:28:40,904
+Thank you and good night.
+
